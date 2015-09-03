@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="58" lt="58" ts="1440595542062" s="true" lb="Prod env" rc="200" rm="OK" tn="Radio Edit(DL Scheduler) 1-1" dt="text" by="2589">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="113" lt="113" ts="1440595542063" s="true" lb="DL scheduler_android" rc="200" rm="OK" tn="DL Sceduler 2-1" dt="text" by="414"/>
+<httpSample t="53" lt="53" ts="1440595542177" s="true" lb="DL scheduler_blackberry" rc="200" rm="OK" tn="DL Sceduler 2-1" dt="text" by="415"/>
+<httpSample t="53" lt="53" ts="1440595542230" s="true" lb="DL scheduler_iPad" rc="200" rm="OK" tn="DL Sceduler 2-1" dt="text" by="2492">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="56" lt="56" ts="1440595542285" s="true" lb="DL scheduler_iphone" rc="200" rm="OK" tn="DL Sceduler 2-1" dt="text" by="414"/>
+<httpSample t="54" lt="54" ts="1440595542347" s="true" lb="DL scheduler_windowsphone8" rc="200" rm="OK" tn="DL Sceduler 2-1" dt="text" by="417"/>
+<httpSample t="54" lt="54" ts="1440595542402" s="true" lb="DL scheduler_webapp" rc="200" rm="OK" tn="DL Sceduler 2-1" dt="text" by="415"/>
+
+</testResults>
