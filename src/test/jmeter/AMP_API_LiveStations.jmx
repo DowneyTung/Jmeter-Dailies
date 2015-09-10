@@ -127,7 +127,7 @@
                 <stringProp name="1592867497">&quot;streams&quot;:</stringProp>
                 <stringProp name="-967860689">&quot;isActive&quot;:true,&quot;modified&quot;:</stringProp>
                 <stringProp name="1464772175">&quot;markets&quot;:[{&quot;name&quot;:&quot;NEWYORK-NY&quot;</stringProp>
-                <stringProp name="1959515294">&quot;genres&quot;:[{&quot;id&quot;:13,&quot;name&quot;:&quot;Soft Rock&quot;,&quot;sortIndex&quot;:1,&quot;primary&quot;:true},{&quot;id&quot;:8,&quot;name&quot;:&quot;Mix &amp; Variety&quot;,&quot;sortIndex&quot;:1000,&quot;primary&quot;:false}],&quot;esid&quot;:&quot;1573&quot;,&quot;feeds&quot;:{&quot;site_id&quot;:&quot;1873&quot;,&quot;feed&quot;:&quot;wltw-fm.app.clearchannel.com&quot;},&quot;format&quot;:&quot;ACMAINSTREAM&quot;,&quot;provider&quot;:&quot;Clear Channel&quot;,&quot;rds&quot;:&quot;WLTW-FM New York&quot;,&quot;website&quot;:&quot;www.1067litefm.com&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;1067LiteFM&quot;,&quot;facebook&quot;:&quot;1067LitefmNY&quot;},&quot;adswizz&quot;:{&quot;publisher_id&quot;:&quot;8523&quot;}</stringProp>
+                <stringProp name="-911684435">&quot;genres&quot;:[{&quot;id&quot;:13</stringProp>
                 <stringProp name="980092557">&quot;adswizzZones&quot;:{&quot;audio-exchange-zone&quot;:&quot;39794&quot;,&quot;audio-fill-zone&quot;:&quot;39793&quot;,&quot;display-zone&quot;:&quot;39797&quot;,&quot;audio-zone&quot;:&quot;39795&quot;,&quot;optimized-audio-fill-zone&quot;:&quot;39796&quot;}</stringProp>
                 <stringProp name="2045839193">&quot;callLetterAlias&quot;:&quot;WLTW-FM&quot;,&quot;callLetterRoyalty&quot;:&quot;WLTW-FM&quot;}]}</stringProp>
                 <stringProp name="-252953794">&quot;marketId&quot;:&quot;159&quot;</stringProp>
@@ -143,6 +143,15 @@
                 <stringProp name="-1327979659">&quot;secure_rtmp_stream&quot;:&quot;rtmp://cp19974.live.edgefcs.net/live/Nyo_NY_WLTW-FM_OR@152587&quot;</stringProp>
                 <stringProp name="-1733577703">&quot;shoutcast_stream&quot;:&quot;http://wltw-fm.akacast.akamaistream.net/7/291/19974/v1/auth.akacast.akamaistream.net/wltw-fm&quot;</stringProp>
                 <stringProp name="1936984165">&quot;hls_stream&quot;:&quot;http://playlists.ihrhls.com/c5/1477/playlist.m3u8&quot;</stringProp>
+                <stringProp name="-2096463608">&quot;adswizz&quot;:{&quot;publisher_id&quot;:&quot;852</stringProp>
+                <stringProp name="-282241912">&quot;social&quot;:{&quot;twitter&quot;:&quot;1067LiteFM&quot;</stringProp>
+                <stringProp name="10835149">&quot;format&quot;:&quot;ACMAINSTREAM&quot;,&quot;provider&quot;:&quot;Clear Channel&quot;,&quot;rds&quot;:&quot;WLTW-FM New York&quot;,&quot;website&quot;:&quot;www.1067litefm.com&quot;</stringProp>
+                <stringProp name="-1722694013">&quot;feeds&quot;:{&quot;site_id&quot;:&quot;1873&quot;,&quot;feed&quot;:&quot;wltw-fm.app.clearchannel.com&quot;}</stringProp>
+                <stringProp name="-1665760860">{&quot;id&quot;:8,&quot;name&quot;:&quot;Mix &amp; Variety&quot;,&quot;sortIndex&quot;:1000,&quot;primary&quot;:false}],&quot;esid&quot;:&quot;1573&quot;,</stringProp>
+                <stringProp name="243758525">&quot;facebook&quot;:&quot;1067LitefmNY&quot;}</stringProp>
+                <stringProp name="-1989650042">&quot;primary&quot;:true</stringProp>
+                <stringProp name="-1281192537">&quot;sortIndex&quot;:1</stringProp>
+                <stringProp name="-496077916">&quot;name&quot;:&quot;Soft Rock&quot;</stringProp>
               </collectionProp>
               <stringProp name="Assertion.test_field">Assertion.response_data</stringProp>
               <boolProp name="Assertion.assume_success">false</boolProp>
@@ -458,7 +467,7 @@
                 <stringProp name="1592867497">&quot;streams&quot;:</stringProp>
                 <stringProp name="1492799339">&quot;isActive&quot;:true,&quot;modified&quot;</stringProp>
                 <stringProp name="974711917">&quot;markets&quot;:</stringProp>
-                <stringProp name="817337516">&quot;genres&quot;:[{&quot;id&quot;:93,&quot;name&quot;:&quot;Public Radio&quot;,&quot;sortIndex&quot;:1000,&quot;primary&quot;:true},{&quot;id&quot;:1,&quot;name&quot;:&quot;Alternative&quot;,&quot;sortIndex&quot;:66,&quot;primary&quot;:false}],&quot;feeds&quot;:{&quot;site_id&quot;:&quot;0&quot;},&quot;format&quot;:&quot;Prov_Public&quot;,&quot;provider&quot;:&quot;Public&quot;,&quot;website&quot;:&quot;www.opbmusic.org&quot;,&quot;social&quot;:{}}]}</stringProp>
+                <stringProp name="-1612994266">&quot;genres&quot;:[{&quot;id&quot;:93,&quot;name&quot;:&quot;Public Radio&quot;,&quot;sortIndex&quot;:1000,&quot;primary&quot;:true}</stringProp>
                 <stringProp name="686123281">&quot;shoutcast_stream&quot;:&quot;http://stream1.opb.org/opbmusicheart.aac&quot;</stringProp>
                 <stringProp name="43038449">&quot;rtmp_stream&quot;:&quot;rtmp://rtmp.opb.org/live/opbmusicheart.stream&quot;</stringProp>
                 <stringProp name="-873225797">&quot;name&quot;:&quot;PORTLAND-OR&quot;</stringProp>
@@ -472,6 +481,16 @@
                 <stringProp name="74941194">&quot;countryId&quot;:1</stringProp>
                 <stringProp name="-1989650042">&quot;primary&quot;:true</stringProp>
                 <stringProp name="-1096637010">&quot;origin&quot;:true</stringProp>
+                <stringProp name="-1432822473">{&quot;id&quot;:1</stringProp>
+                <stringProp name="502129218">&quot;feeds&quot;:{&quot;site_id&quot;:&quot;0&quot;}</stringProp>
+                <stringProp name="-1302209516">&quot;social&quot;:{}}]}</stringProp>
+                <stringProp name="1218526048">&quot;website&quot;:&quot;www.opbmusic.org&quot;</stringProp>
+                <stringProp name="-974496510">&quot;provider&quot;:&quot;Public&quot;</stringProp>
+                <stringProp name="60621844">&quot;format&quot;:&quot;Prov_Public&quot;</stringProp>
+                <stringProp name="-1563053013">&quot;primary&quot;:false</stringProp>
+                <stringProp name="1367537449">&quot;sortIndex&quot;:1000</stringProp>
+                <stringProp name="1540423858">&quot;name&quot;:&quot;Alternative&quot;</stringProp>
+                <stringProp name="0"></stringProp>
               </collectionProp>
               <stringProp name="Assertion.test_field">Assertion.response_data</stringProp>
               <boolProp name="Assertion.assume_success">false</boolProp>
@@ -851,7 +870,7 @@
                 <stringProp name="1592867497">&quot;streams&quot;:</stringProp>
                 <stringProp name="1492799339">&quot;isActive&quot;:true,&quot;modified&quot;</stringProp>
                 <stringProp name="2020368393">&quot;markets&quot;:[{&quot;name&quot;:&quot;SEATTLE-WA&quot;</stringProp>
-                <stringProp name="1744857217">&quot;genres&quot;:[{&quot;id&quot;:1,&quot;name&quot;:&quot;Alternative&quot;,&quot;sortIndex&quot;:60,&quot;primary&quot;:true}],&quot;feeds&quot;:{&quot;site_id&quot;:&quot;0&quot;},&quot;format&quot;:&quot;Prov_Public&quot;,&quot;provider&quot;:&quot;Public&quot;,&quot;website&quot;:&quot;www.kexp.org&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;kexp&quot;,&quot;google&quot;:&quot;100695794563009822563&quot;,&quot;facebook&quot;:&quot;kexp.fm&quot;}}]}</stringProp>
+                <stringProp name="-1137787834">&quot;genres&quot;:[{&quot;id&quot;:1</stringProp>
                 <stringProp name="-252925088">&quot;marketId&quot;:&quot;245&quot;</stringProp>
                 <stringProp name="1367537449">&quot;sortIndex&quot;:1000</stringProp>
                 <stringProp name="412581527">&quot;city&quot;:&quot;Seattle&quot;</stringProp>
@@ -864,6 +883,10 @@
                 <stringProp name="-1989650042">&quot;primary&quot;:true</stringProp>
                 <stringProp name="1670203878">&quot;shoutcast_stream&quot;:&quot;http://live-aacplus-64.kexp.org/kexp64.aac&quot;</stringProp>
                 <stringProp name="-2139693976">&quot;flv_stream&quot;:&quot;http://live-aacplus-64.kexp.org/kexp64.aac?type=.flv&quot;</stringProp>
+                <stringProp name="-661399057">&quot;feeds&quot;:{&quot;site_id&quot;:&quot;0&quot;},&quot;format&quot;:&quot;Prov_Public&quot;,&quot;provider&quot;:&quot;Public&quot;,&quot;website&quot;:&quot;www.kexp.org&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;kexp&quot;,&quot;google&quot;:&quot;100695794563009822563&quot;,&quot;facebook&quot;:&quot;kexp.fm&quot;}}]}</stringProp>
+                <stringProp name="-1989650042">&quot;primary&quot;:true</stringProp>
+                <stringProp name="-1011160118">&quot;sortIndex&quot;:</stringProp>
+                <stringProp name="1540423858">&quot;name&quot;:&quot;Alternative&quot;</stringProp>
                 <stringProp name="0"></stringProp>
               </collectionProp>
               <stringProp name="Assertion.test_field">Assertion.response_data</stringProp>
@@ -1089,7 +1112,7 @@
                 <stringProp name="1592867497">&quot;streams&quot;:</stringProp>
                 <stringProp name="1492799339">&quot;isActive&quot;:true,&quot;modified&quot;</stringProp>
                 <stringProp name="1464772175">&quot;markets&quot;:[{&quot;name&quot;:&quot;NEWYORK-NY&quot;</stringProp>
-                <stringProp name="1796644335">&quot;genres&quot;:[{&quot;id&quot;:93,&quot;name&quot;:&quot;Public Radio&quot;,&quot;sortIndex&quot;:1000,&quot;primary&quot;:false},{&quot;id&quot;:1,&quot;name&quot;:&quot;Alternative&quot;,&quot;sortIndex&quot;:72,&quot;primary&quot;:true}],&quot;feeds&quot;:{&quot;site_id&quot;:&quot;0&quot;},&quot;format&quot;:&quot;Prov_Public&quot;,&quot;provider&quot;:&quot;Public&quot;,&quot;rds&quot;:&quot;WFUV-FM&quot;,&quot;website&quot;:&quot;http://www.wfuv.org/&quot;,&quot;social&quot;:{}}]}</stringProp>
+                <stringProp name="2019968283">&quot;genres&quot;:[{&quot;id&quot;:93,&quot;name&quot;:&quot;Public Radio&quot;,&quot;sortIndex&quot;:1000</stringProp>
                 <stringProp name="-252953794">&quot;marketId&quot;:&quot;159&quot;</stringProp>
                 <stringProp name="-1062262842">&quot;sortIndex&quot;:40</stringProp>
                 <stringProp name="267995382">&quot;city&quot;:&quot;New York&quot;</stringProp>
@@ -1102,6 +1125,11 @@
                 <stringProp name="-1096637010">&quot;origin&quot;:true</stringProp>
                 <stringProp name="-830094607">&quot;rtmp_stream&quot;:&quot;rtmp://wfuv-flash.streamguys.org/wfuv-live/fuvmusic.stream&quot;</stringProp>
                 <stringProp name="-1015276469">&quot;pls_stream&quot;:&quot;http://www.wfuv.org/sites/all/files/streams/wfuvaac.pls&quot;</stringProp>
+                <stringProp name="256593876">&quot;feeds&quot;:{&quot;site_id&quot;:&quot;0&quot;},&quot;format&quot;:&quot;Prov_Public&quot;,&quot;provider&quot;:&quot;Public&quot;,&quot;rds&quot;:&quot;WFUV-FM&quot;,&quot;website&quot;:&quot;http://www.wfuv.org/&quot;,&quot;social&quot;:{}}]}</stringProp>
+                <stringProp name="-1989650042">&quot;primary&quot;:true</stringProp>
+                <stringProp name="-1011160118">&quot;sortIndex&quot;:</stringProp>
+                <stringProp name="-1587480639">&quot;primary&quot;:false},{&quot;id&quot;:1,&quot;name&quot;:&quot;Alternative&quot;</stringProp>
+                <stringProp name="0"></stringProp>
               </collectionProp>
               <stringProp name="Assertion.test_field">Assertion.response_data</stringProp>
               <boolProp name="Assertion.assume_success">false</boolProp>
@@ -1136,7 +1164,7 @@
                 <stringProp name="1592867497">&quot;streams&quot;:</stringProp>
                 <stringProp name="1492799339">&quot;isActive&quot;:true,&quot;modified&quot;</stringProp>
                 <stringProp name="974711917">&quot;markets&quot;:</stringProp>
-                <stringProp name="-565349543">&quot;genres&quot;:[{&quot;id&quot;:12,&quot;name&quot;:&quot;Rock&quot;,&quot;sortIndex&quot;:1000,&quot;primary&quot;:true},{&quot;id&quot;:18,&quot;name&quot;:&quot;80s &amp; 90s Hits&quot;,&quot;sortIndex&quot;:1000,&quot;primary&quot;:false},{&quot;id&quot;:3,&quot;name&quot;:&quot;Classic Rock&quot;,&quot;sortIndex&quot;:1000,&quot;primary&quot;:false}],&quot;feeds&quot;:{&quot;site_id&quot;:&quot;0&quot;},&quot;format&quot;:&quot;Prov_Clear Channel Australia&quot;,&quot;provider&quot;:&quot;Clear Channel Australia&quot;,&quot;website&quot;:&quot;www.96.com.au&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;96FMPerth&quot;}}]}</stringProp>
+                <stringProp name="187384576">&quot;genres&quot;:[{&quot;id&quot;:12,&quot;name&quot;:&quot;Rock&quot;,&quot;sortIndex&quot;:1000,&quot;primary&quot;:true}</stringProp>
                 <stringProp name="-2019426821">&quot;pls_stream&quot;:&quot;http://player.arn.com.au/iheart/FRN7_96FM.pls&quot;</stringProp>
                 <stringProp name="-1600133030">&quot;rtmp_stream&quot;:&quot;rtmp://cp335677.live.edgefcs.net/live/FRN7_96FM@10297&quot;</stringProp>
                 <stringProp name="975571088">&quot;name&quot;:&quot;PERTH-WAU&quot;</stringProp>
@@ -1150,6 +1178,10 @@
                 <stringProp name="74941195">&quot;countryId&quot;:2</stringProp>
                 <stringProp name="-1989650042">&quot;primary&quot;:true</stringProp>
                 <stringProp name="-1096637010">&quot;origin&quot;:true</stringProp>
+                <stringProp name="1978013570">&quot;feeds&quot;:{&quot;site_id&quot;:&quot;0&quot;},&quot;format&quot;:&quot;Prov_Clear Channel Australia&quot;,&quot;provider&quot;:&quot;Clear Channel Australia&quot;,&quot;website&quot;:&quot;www.96.com.au&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;96FMPerth&quot;}}]}</stringProp>
+                <stringProp name="1123236001">&quot;primary&quot;:false}],</stringProp>
+                <stringProp name="1962294020">&quot;id&quot;:3,&quot;name&quot;:&quot;Classic Rock&quot;</stringProp>
+                <stringProp name="2041909056">{&quot;id&quot;:18,&quot;name&quot;:&quot;80s &amp; 90s Hits&quot;,&quot;sortIndex&quot;:1000,&quot;primary&quot;:false}</stringProp>
               </collectionProp>
               <stringProp name="Assertion.test_field">Assertion.response_data</stringProp>
               <boolProp name="Assertion.assume_success">false</boolProp>
@@ -1330,7 +1362,7 @@
                 <stringProp name="1592867497">&quot;streams&quot;:</stringProp>
                 <stringProp name="1492799339">&quot;isActive&quot;:true,&quot;modified&quot;</stringProp>
                 <stringProp name="974711917">&quot;markets&quot;:</stringProp>
-                <stringProp name="1903628178">&quot;genres&quot;:[{&quot;id&quot;:1,&quot;name&quot;:&quot;Alternative&quot;,&quot;sortIndex&quot;:39,&quot;primary&quot;:true},{&quot;id&quot;:93,&quot;name&quot;:&quot;Public Radio&quot;,&quot;sortIndex&quot;:12,&quot;primary&quot;:false}],&quot;feeds&quot;:{&quot;site_id&quot;:&quot;0&quot;},&quot;format&quot;:&quot;Prov_American Public Media&quot;,&quot;provider&quot;:&quot;American Public Media&quot;,&quot;rds&quot;:&quot;KCMP-FM Minnesota&quot;,&quot;website&quot;:&quot;www.thecurrent.org&quot;,&quot;social&quot;:{}}]}</stringProp>
+                <stringProp name="-327214434">&quot;genres&quot;:[{&quot;id&quot;:1,&quot;name&quot;:&quot;Alternative&quot;,&quot;sortIndex&quot;:</stringProp>
                 <stringProp name="-1100738218">&quot;name&quot;:&quot;MINNEAPOLIS-MN&quot;</stringProp>
                 <stringProp name="-252957731">&quot;marketId&quot;:&quot;116&quot;</stringProp>
                 <stringProp name="-1281192529">&quot;sortIndex&quot;:9</stringProp>
@@ -1344,7 +1376,11 @@
                 <stringProp name="-1096637010">&quot;origin&quot;:true</stringProp>
                 <stringProp name="-467640281">&quot;shoutcast_stream&quot;:&quot;http://iheart.stream.publicradio.org/current-iheart.aac&quot;</stringProp>
                 <stringProp name="1018094425">&quot;rtmp_stream&quot;:&quot;rtmp://wowza.stream.publicradio.org/current-iheart/current-iheart.stream&quot;</stringProp>
-                <stringProp name="0"></stringProp>
+                <stringProp name="-1659075562">&quot;feeds&quot;:{&quot;site_id&quot;:&quot;0&quot;},&quot;format&quot;:&quot;Prov_American Public Media&quot;,&quot;provider&quot;:&quot;American Public Media&quot;,&quot;rds&quot;:&quot;KCMP-FM Minnesota&quot;,&quot;website&quot;:&quot;www.thecurrent.org&quot;,&quot;social&quot;:{}}]}</stringProp>
+                <stringProp name="-1563053013">&quot;primary&quot;:false</stringProp>
+                <stringProp name="-1011160118">&quot;sortIndex&quot;:</stringProp>
+                <stringProp name="405350404">&quot;id&quot;:93,&quot;name&quot;:&quot;Public Radio&quot;</stringProp>
+                <stringProp name="-1989650042">&quot;primary&quot;:true</stringProp>
               </collectionProp>
               <stringProp name="Assertion.test_field">Assertion.response_data</stringProp>
               <boolProp name="Assertion.assume_success">false</boolProp>
