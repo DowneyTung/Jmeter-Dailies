@@ -1075,8 +1075,8 @@
                 <stringProp name="74941194">&quot;countryId&quot;:1</stringProp>
                 <stringProp name="-1989650042">&quot;primary&quot;:true</stringProp>
                 <stringProp name="-1096637010">&quot;origin&quot;:true</stringProp>
-                <stringProp name="-1317003388">&quot;rtmp_stream&quot;:&quot;rtmp://wbez.fc.llnwd.net/wbez/thisamericanlife&quot;</stringProp>
-                <stringProp name="-803091852">&quot;pls_stream&quot;:&quot;http://wbez.ic.llnwd.net/stream/wbez_TALStream7.pls&quot;</stringProp>
+                <stringProp name="1743968912">&quot;rtmp_stream&quot;:</stringProp>
+                <stringProp name="146609730">&quot;pls_stream&quot;:</stringProp>
                 <stringProp name="0"></stringProp>
               </collectionProp>
               <stringProp name="Assertion.test_field">Assertion.response_data</stringProp>
