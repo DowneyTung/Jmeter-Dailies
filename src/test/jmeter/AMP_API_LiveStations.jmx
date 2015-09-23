@@ -131,7 +131,7 @@
                 <stringProp name="980092557">&quot;adswizzZones&quot;:{&quot;audio-exchange-zone&quot;:&quot;39794&quot;,&quot;audio-fill-zone&quot;:&quot;39793&quot;,&quot;display-zone&quot;:&quot;39797&quot;,&quot;audio-zone&quot;:&quot;39795&quot;,&quot;optimized-audio-fill-zone&quot;:&quot;39796&quot;}</stringProp>
                 <stringProp name="2045839193">&quot;callLetterAlias&quot;:&quot;WLTW-FM&quot;,&quot;callLetterRoyalty&quot;:&quot;WLTW-FM&quot;}]}</stringProp>
                 <stringProp name="-252953794">&quot;marketId&quot;:&quot;159&quot;</stringProp>
-                <stringProp name="-1281192537">&quot;sortIndex&quot;:1</stringProp>
+                <stringProp name="-1011160118">&quot;sortIndex&quot;:</stringProp>
                 <stringProp name="267995382">&quot;city&quot;:&quot;New York&quot;</stringProp>
                 <stringProp name="982160102">&quot;stateId&quot;:37</stringProp>
                 <stringProp name="-338735734">&quot;stateAbbreviation&quot;:&quot;NY&quot;</stringProp>
@@ -147,11 +147,14 @@
                 <stringProp name="-282241912">&quot;social&quot;:{&quot;twitter&quot;:&quot;1067LiteFM&quot;</stringProp>
                 <stringProp name="10835149">&quot;format&quot;:&quot;ACMAINSTREAM&quot;,&quot;provider&quot;:&quot;Clear Channel&quot;,&quot;rds&quot;:&quot;WLTW-FM New York&quot;,&quot;website&quot;:&quot;www.1067litefm.com&quot;</stringProp>
                 <stringProp name="-1722694013">&quot;feeds&quot;:{&quot;site_id&quot;:&quot;1873&quot;,&quot;feed&quot;:&quot;wltw-fm.app.clearchannel.com&quot;}</stringProp>
-                <stringProp name="-1665760860">{&quot;id&quot;:8,&quot;name&quot;:&quot;Mix &amp; Variety&quot;,&quot;sortIndex&quot;:1000,&quot;primary&quot;:false}],&quot;esid&quot;:&quot;1573&quot;,</stringProp>
-                <stringProp name="243758525">&quot;facebook&quot;:&quot;1067LitefmNY&quot;}</stringProp>
+                <stringProp name="1073374467">&quot;id&quot;:8</stringProp>
+                <stringProp name="1947525824">&quot;facebook&quot;:&quot;1067LitefmNY&quot;</stringProp>
                 <stringProp name="-1989650042">&quot;primary&quot;:true</stringProp>
                 <stringProp name="-1281192537">&quot;sortIndex&quot;:1</stringProp>
                 <stringProp name="-496077916">&quot;name&quot;:&quot;Soft Rock&quot;</stringProp>
+                <stringProp name="-1563053013">&quot;primary&quot;:false</stringProp>
+                <stringProp name="-1158300157">&quot;esid&quot;:&quot;1573&quot;</stringProp>
+                <stringProp name="0"></stringProp>
               </collectionProp>
               <stringProp name="Assertion.test_field">Assertion.response_data</stringProp>
               <boolProp name="Assertion.assume_success">false</boolProp>
@@ -691,7 +694,7 @@
                 <stringProp name="-1287037844">&quot;flv_stream&quot;:&quot;http://ih-streaming.cmgdigital.com/atl985/atl985-iheart.aac?type=.flv&quot;</stringProp>
                 <stringProp name="-850690850">&quot;feeds&quot;:{&quot;site_id&quot;:&quot;0&quot;},&quot;format&quot;:&quot;Prov_Cox&quot;,&quot;provider&quot;:&quot;Cox&quot;,&quot;rds&quot;:&quot;B98.5 FM&quot;,&quot;website&quot;:&quot;www.b985.com&quot;,&quot;social&quot;:</stringProp>
                 <stringProp name="1808619349">&quot;name&quot;:&quot;Mix &amp; Variety&quot;</stringProp>
-                <stringProp name="1367537449">&quot;sortIndex&quot;:1000</stringProp>
+                <stringProp name="-1011160118">&quot;sortIndex&quot;:</stringProp>
                 <stringProp name="-1989650042">&quot;primary&quot;:true</stringProp>
               </collectionProp>
               <stringProp name="Assertion.test_field">Assertion.response_data</stringProp>
