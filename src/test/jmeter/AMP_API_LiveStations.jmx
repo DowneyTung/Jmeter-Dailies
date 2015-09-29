@@ -130,7 +130,7 @@
           <hashTree>
             <ResponseAssertion guiclass="AssertionGui" testclass="ResponseAssertion" testname="Response Assertion" enabled="true">
               <collectionProp name="Asserion.test_strings">
-                <stringProp name="-332314004">&quot;id&quot;:1477,&quot;score&quot;:0.0,&quot;name&quot;:&quot;106.7 Lite fm&quot;,&quot;responseType&quot;:&quot;LIVE&quot;,&quot;description&quot;:&quot;New York’s Best Variety &quot;,&quot;band&quot;:&quot;FM&quot;,&quot;callLetters&quot;:&quot;WLTW-FM&quot;,&quot;logo&quot;:&quot;http://radioedit.iheart.com/service/img/nop()/assets/images/2d93cca6-f6d3-40df-9908-1e516a898672.png&quot;,&quot;freq&quot;:&quot;106.7&quot;,&quot;cume&quot;:4949400,&quot;countries&quot;:&quot;US&quot;</stringProp>
+                <stringProp name="982947771">&quot;id&quot;:1477,&quot;score&quot;:0.0,&quot;name&quot;:&quot;106.7 Lite fm&quot;,&quot;responseType&quot;:&quot;LIVE&quot;,&quot;description&quot;:&quot;New York’s Best Variety &quot;,&quot;band&quot;:&quot;FM&quot;,&quot;callLetters&quot;:&quot;WLTW-FM&quot;</stringProp>
                 <stringProp name="1592867497">&quot;streams&quot;:</stringProp>
                 <stringProp name="-967860689">&quot;isActive&quot;:true,&quot;modified&quot;:</stringProp>
                 <stringProp name="1464772175">&quot;markets&quot;:[{&quot;name&quot;:&quot;NEWYORK-NY&quot;</stringProp>
@@ -162,6 +162,9 @@
                 <stringProp name="-1563053013">&quot;primary&quot;:false</stringProp>
                 <stringProp name="-1158300157">&quot;esid&quot;:&quot;1573&quot;</stringProp>
                 <stringProp name="0"></stringProp>
+                <stringProp name="0"></stringProp>
+                <stringProp name="0"></stringProp>
+                <stringProp name="0"></stringProp>
               </collectionProp>
               <stringProp name="Assertion.test_field">Assertion.response_data</stringProp>
               <boolProp name="Assertion.assume_success">false</boolProp>
@@ -192,7 +195,7 @@
           <hashTree>
             <ResponseAssertion guiclass="AssertionGui" testclass="ResponseAssertion" testname="Response Assertion" enabled="true">
               <collectionProp name="Asserion.test_strings">
-                <stringProp name="-966424768">&quot;id&quot;:6492,&quot;score&quot;:0.0,&quot;name&quot;:&quot;The Lounge&quot;,&quot;responseType&quot;:&quot;LIVE&quot;,&quot;description&quot;:&quot;The Lounge - Enjoy the Music &quot;,&quot;band&quot;:&quot;FL&quot;,&quot;callLetters&quot;:&quot;AUDSLO-FL&quot;,&quot;logo&quot;:&quot;http://radioedit.iheart.com/service/img/nop()/assets/images/6492.png&quot;,&quot;freq&quot;:&quot;0.0&quot;,&quot;countries&quot;:&quot;AU&quot;</stringProp>
+                <stringProp name="-1909657193">&quot;id&quot;:6492,&quot;score&quot;:0.0,&quot;name&quot;:&quot;The Lounge&quot;,&quot;responseType&quot;:&quot;LIVE&quot;,&quot;description&quot;:&quot;The Lounge - Enjoy the Music &quot;,&quot;band&quot;:&quot;FL&quot;,&quot;callLetters&quot;:&quot;AUDSLO-FL&quot;</stringProp>
                 <stringProp name="1592867497">&quot;streams&quot;:</stringProp>
                 <stringProp name="-967860689">&quot;isActive&quot;:true,&quot;modified&quot;:</stringProp>
                 <stringProp name="-15357955">&quot;markets&quot;:[{&quot;name&quot;:&quot;PERTH-WAU&quot;</stringProp>
@@ -219,6 +222,9 @@
                 <stringProp name="807665007">&quot;rtmp_stream&quot;:&quot;rtmp://asdfasdfasdfasdf&quot;</stringProp>
                 <stringProp name="-1416682727">&quot;shoutcast_stream&quot;</stringProp>
                 <stringProp name="380292548">&quot;pls_stream&quot;:&quot;http://player.arn.com.au/iheart/external/3aw.pls&quot;</stringProp>
+                <stringProp name="-986977819">&quot;logo&quot;:</stringProp>
+                <stringProp name="-430784672">&quot;freq&quot;:&quot;0.0&quot;</stringProp>
+                <stringProp name="25937590">&quot;countries&quot;:&quot;AU&quot;</stringProp>
               </collectionProp>
               <stringProp name="Assertion.test_field">Assertion.response_data</stringProp>
               <boolProp name="Assertion.assume_success">false</boolProp>
@@ -249,7 +255,7 @@
           <hashTree>
             <ResponseAssertion guiclass="AssertionGui" testclass="ResponseAssertion" testname="Response Assertion" enabled="true">
               <collectionProp name="Asserion.test_strings">
-                <stringProp name="-123392932">&quot;id&quot;:6867,&quot;score&quot;:0.0,&quot;name&quot;:&quot;Radio New Zealand Concert&quot;,&quot;responseType&quot;:&quot;LIVE&quot;,&quot;description&quot;:&quot;Reflecting music &amp; cultural life in NZ&quot;,&quot;band&quot;:&quot;FM&quot;,&quot;callLetters&quot;:&quot;RNZCON-FM&quot;,&quot;logo&quot;:&quot;http://radioedit.iheart.com/service/img/nop()/assets/images/98e3ba6b-2bb5-471b-8169-c627bc26eff8.png&quot;,&quot;freq&quot;:&quot;92.6&quot;,&quot;countries&quot;:&quot;NZ&quot;</stringProp>
+                <stringProp name="1941770844">&quot;id&quot;:6867,&quot;score&quot;:0.0,&quot;name&quot;:&quot;Radio New Zealand Concert&quot;,&quot;responseType&quot;:&quot;LIVE&quot;,&quot;description&quot;:&quot;Reflecting music &amp; cultural life in NZ&quot;,&quot;band&quot;:&quot;FM&quot;,&quot;callLetters&quot;:&quot;RNZCON-FM&quot;</stringProp>
                 <stringProp name="1592867497">&quot;streams&quot;:</stringProp>
                 <stringProp name="-967860689">&quot;isActive&quot;:true,&quot;modified&quot;:</stringProp>
                 <stringProp name="974711917">&quot;markets&quot;:</stringProp>
@@ -271,6 +277,9 @@
                 <stringProp name="-1096637010">&quot;origin&quot;:true</stringProp>
                 <stringProp name="-1989650042">&quot;primary&quot;:true</stringProp>
                 <stringProp name="866047330">&quot;name&quot;:&quot;Classical&quot;</stringProp>
+                <stringProp name="-986977819">&quot;logo&quot;:</stringProp>
+                <stringProp name="-460993359">&quot;freq&quot;:&quot;92.6&quot;</stringProp>
+                <stringProp name="25950238">&quot;countries&quot;:&quot;NZ&quot;</stringProp>
               </collectionProp>
               <stringProp name="Assertion.test_field">Assertion.response_data</stringProp>
               <boolProp name="Assertion.assume_success">false</boolProp>
@@ -301,7 +310,7 @@
           <hashTree>
             <ResponseAssertion guiclass="AssertionGui" testclass="ResponseAssertion" testname="Response Assertion" enabled="true">
               <collectionProp name="Asserion.test_strings">
-                <stringProp name="-1696251813">&quot;id&quot;:5255,&quot;score&quot;:0.0,&quot;name&quot;:&quot;KCRW 89.9 On Air&quot;,&quot;responseType&quot;:&quot;LIVE&quot;,&quot;description&quot;:&quot;LA&apos;s Independent Music, News &amp; Talk&quot;,&quot;band&quot;:&quot;FM&quot;,&quot;callLetters&quot;:&quot;KCRW-FM&quot;,&quot;logo&quot;:&quot;http://radioedit.iheart.com/service/img/nop()/assets/images/5255.png&quot;,&quot;freq&quot;:&quot;92.1&quot;,&quot;cume&quot;:483200,&quot;countries&quot;:&quot;US&quot;</stringProp>
+                <stringProp name="441756715">&quot;id&quot;:5255,&quot;score&quot;:0.0,&quot;name&quot;:&quot;KCRW 89.9 On Air&quot;,&quot;responseType&quot;:&quot;LIVE&quot;,&quot;description&quot;:&quot;LA&apos;s Independent Music, News &amp; Talk&quot;,&quot;band&quot;:&quot;FM&quot;,&quot;callLetters&quot;:&quot;KCRW-FM&quot;</stringProp>
                 <stringProp name="1592867497">&quot;streams&quot;:</stringProp>
                 <stringProp name="1492799339">&quot;isActive&quot;:true,&quot;modified&quot;</stringProp>
                 <stringProp name="974711917">&quot;markets&quot;:</stringProp>
@@ -328,6 +337,10 @@
                 <stringProp name="-1151067671">&quot;esid&quot;:&quot;9003&quot;</stringProp>
                 <stringProp name="-1989650042">&quot;primary&quot;:true</stringProp>
                 <stringProp name="1025594945">&quot;name&quot;:&quot;Public Radio&quot;</stringProp>
+                <stringProp name="-986977819">&quot;logo&quot;:</stringProp>
+                <stringProp name="-460993514">&quot;freq&quot;:&quot;92.1&quot;</stringProp>
+                <stringProp name="25956748">&quot;countries&quot;:&quot;US&quot;</stringProp>
+                <stringProp name="-1238929916">&quot;cume&quot;:</stringProp>
               </collectionProp>
               <stringProp name="Assertion.test_field">Assertion.response_data</stringProp>
               <boolProp name="Assertion.assume_success">false</boolProp>
@@ -358,7 +371,7 @@
           <hashTree>
             <ResponseAssertion guiclass="AssertionGui" testclass="ResponseAssertion" testname="Response Assertion" enabled="true">
               <collectionProp name="Asserion.test_strings">
-                <stringProp name="1760505523">&quot;id&quot;:5068,&quot;score&quot;:0.0,&quot;name&quot;:&quot;WNYC-FM News, Talk &amp; Culture&quot;,&quot;responseType&quot;:&quot;LIVE&quot;,&quot;description&quot;:&quot;Public Radio from New York to the World&quot;,&quot;band&quot;:&quot;FM&quot;,&quot;callLetters&quot;:&quot;WNYC-FM&quot;,&quot;logo&quot;:&quot;http://radioedit.iheart.com/service/img/nop()/assets/images/5068.png&quot;,&quot;freq&quot;:&quot;93.9&quot;,&quot;cume&quot;:786500,&quot;countries&quot;:&quot;US&quot;</stringProp>
+                <stringProp name="-262302433">&quot;id&quot;:5068,&quot;score&quot;:0.0,&quot;name&quot;:&quot;WNYC-FM News, Talk &amp; Culture&quot;,&quot;responseType&quot;:&quot;LIVE&quot;,&quot;description&quot;:&quot;Public Radio from New York to the World&quot;,&quot;band&quot;:&quot;FM&quot;,&quot;callLetters&quot;:&quot;WNYC-FM&quot;</stringProp>
                 <stringProp name="1592867497">&quot;streams&quot;:</stringProp>
                 <stringProp name="1492799339">&quot;isActive&quot;:true,&quot;modified&quot;</stringProp>
                 <stringProp name="1464772175">&quot;markets&quot;:[{&quot;name&quot;:&quot;NEWYORK-NY&quot;</stringProp>
@@ -384,6 +397,11 @@
                 <stringProp name="1797234025">{&quot;id&quot;:93,&quot;name&quot;:&quot;Public Radio&quot;</stringProp>
                 <stringProp name="1977941588">&quot;id&quot;:9,&quot;name&quot;:&quot;News &amp; Talk&quot;</stringProp>
                 <stringProp name="66232312">&quot;primary&quot;:</stringProp>
+                <stringProp name="-986977819">&quot;logo&quot;:</stringProp>
+                <stringProp name="25956748">&quot;countries&quot;:&quot;US&quot;</stringProp>
+                <stringProp name="-1238929916">&quot;cume&quot;:</stringProp>
+                <stringProp name="-460963475">&quot;freq&quot;:&quot;93.9&quot;</stringProp>
+                <stringProp name="0"></stringProp>
               </collectionProp>
               <stringProp name="Assertion.test_field">Assertion.response_data</stringProp>
               <boolProp name="Assertion.assume_success">false</boolProp>
@@ -414,7 +432,7 @@
           <hashTree>
             <ResponseAssertion guiclass="AssertionGui" testclass="ResponseAssertion" testname="Response Assertion" enabled="true">
               <collectionProp name="Asserion.test_strings">
-                <stringProp name="-215429543">&quot;id&quot;:5758,&quot;score&quot;:0.0,&quot;name&quot;:&quot;97.3 WMEE&quot;,&quot;responseType&quot;:&quot;LIVE&quot;,&quot;description&quot;:&quot;Todays Best Variety - Fort Wayne &quot;,&quot;band&quot;:&quot;FM&quot;,&quot;callLetters&quot;:&quot;WMEE-FM&quot;,&quot;logo&quot;:&quot;http://radioedit.iheart.com/service/img/nop()/assets/images/5758.png&quot;,&quot;freq&quot;:&quot;97.3&quot;,&quot;cume&quot;:106800,&quot;countries&quot;:&quot;US&quot;</stringProp>
+                <stringProp name="866965470">&quot;id&quot;:5758,&quot;score&quot;:0.0,&quot;name&quot;:&quot;97.3 WMEE&quot;,&quot;responseType&quot;:&quot;LIVE&quot;,&quot;description&quot;:&quot;Todays Best Variety - Fort Wayne &quot;,&quot;band&quot;:&quot;FM&quot;,&quot;callLetters&quot;:&quot;WMEE-FM&quot;</stringProp>
                 <stringProp name="1592867497">&quot;streams&quot;:</stringProp>
                 <stringProp name="1492799339">&quot;isActive&quot;:true,&quot;modified&quot;</stringProp>
                 <stringProp name="-1045148607">&quot;markets&quot;:[{&quot;name&quot;:&quot;FORTWAYNE-IN&quot;</stringProp>
@@ -435,6 +453,10 @@
                 <stringProp name="-1258380825">&quot;name&quot;:&quot;Top 40 &amp; Pop&quot;</stringProp>
                 <stringProp name="-1011160118">&quot;sortIndex&quot;:</stringProp>
                 <stringProp name="-1989650042">&quot;primary&quot;:true</stringProp>
+                <stringProp name="-986977819">&quot;logo&quot;:</stringProp>
+                <stringProp name="-1230587517">,&quot;freq&quot;:&quot;97.3&quot;</stringProp>
+                <stringProp name="25956748">&quot;countries&quot;:&quot;US&quot;</stringProp>
+                <stringProp name="-1238929916">&quot;cume&quot;:</stringProp>
                 <stringProp name="0"></stringProp>
               </collectionProp>
               <stringProp name="Assertion.test_field">Assertion.response_data</stringProp>
@@ -466,7 +488,7 @@
           <hashTree>
             <ResponseAssertion guiclass="AssertionGui" testclass="ResponseAssertion" testname="Response Assertion" enabled="true">
               <collectionProp name="Asserion.test_strings">
-                <stringProp name="2028474639">&quot;id&quot;:6621,&quot;score&quot;:0.0,&quot;name&quot;:&quot;Houston Public Media News&quot;,&quot;responseType&quot;:&quot;LIVE&quot;,&quot;description&quot;:&quot;News and information from Houston, TX&quot;,&quot;band&quot;:&quot;FM&quot;,&quot;callLetters&quot;:&quot;KUHF-FM&quot;,&quot;logo&quot;:&quot;http://radioedit.iheart.com/service/img/nop()/assets/images/1f9a5a5f-ab3b-4445-9f45-56c464990ff2.png&quot;,&quot;freq&quot;:&quot;88.7&quot;,&quot;countries&quot;:&quot;US&quot;</stringProp>
+                <stringProp name="337849137">&quot;id&quot;:6621,&quot;score&quot;:0.0,&quot;name&quot;:&quot;Houston Public Media News&quot;,&quot;responseType&quot;:&quot;LIVE&quot;,&quot;description&quot;:&quot;News and information from Houston, TX&quot;,&quot;band&quot;:&quot;FM&quot;,&quot;callLetters&quot;:&quot;KUHF-FM&quot;</stringProp>
                 <stringProp name="1592867497">&quot;streams&quot;:</stringProp>
                 <stringProp name="1492799339">&quot;isActive&quot;:true,&quot;modified&quot;</stringProp>
                 <stringProp name="-796135147">&quot;markets&quot;:[{&quot;name&quot;:&quot;HOUSTON-TX&quot;</stringProp>
@@ -475,6 +497,10 @@
                 <stringProp name="-433556941">&quot;rtmp_stream&quot;:&quot;rtmp://stream2.houstonpublicmedia.org:1935/live/KUHF_64.stream&quot;</stringProp>
                 <stringProp name="1797234025">{&quot;id&quot;:93,&quot;name&quot;:&quot;Public Radio&quot;</stringProp>
                 <stringProp name="-1244194802">&quot;feeds&quot;:{&quot;site_id&quot;:&quot;0&quot;},&quot;format&quot;:&quot;Prov_Public&quot;,&quot;provider&quot;:&quot;Public&quot;,&quot;website&quot;:&quot;www.houstonpublicmedia.org/news887&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;HPMNews887&quot;,&quot;facebook&quot;:&quot;HoustonNews887&quot;}}]}</stringProp>
+                <stringProp name="-986977819">&quot;logo&quot;:</stringProp>
+                <stringProp name="-461738103">&quot;freq&quot;:&quot;88.7&quot;</stringProp>
+                <stringProp name="25956748">&quot;countries&quot;:&quot;US&quot;</stringProp>
+                <stringProp name="0"></stringProp>
               </collectionProp>
               <stringProp name="Assertion.test_field">Assertion.response_data</stringProp>
               <boolProp name="Assertion.assume_success">false</boolProp>
@@ -505,7 +531,7 @@
           <hashTree>
             <ResponseAssertion guiclass="AssertionGui" testclass="ResponseAssertion" testname="Response Assertion" enabled="true">
               <collectionProp name="Asserion.test_strings">
-                <stringProp name="-1422933826">&quot;id&quot;:6634,&quot;score&quot;:0.0,&quot;name&quot;:&quot;opbmusic&quot;,&quot;responseType&quot;:&quot;LIVE&quot;,&quot;description&quot;:&quot;Portland indie, alternative and pop&quot;,&quot;band&quot;:&quot;FL&quot;,&quot;callLetters&quot;:&quot;OPBMUSIC-FL&quot;,&quot;logo&quot;:&quot;http://radioedit.iheart.com/service/img/nop()/assets/images/6aa00e6e-69d5-446a-9bb4-e70cc1f9affd.png&quot;,&quot;countries&quot;:&quot;US&quot;</stringProp>
+                <stringProp name="-1243355789">&quot;id&quot;:6634,&quot;score&quot;:0.0,&quot;name&quot;:&quot;opbmusic&quot;,&quot;responseType&quot;:&quot;LIVE&quot;,&quot;description&quot;:&quot;Portland indie, alternative and pop&quot;,&quot;band&quot;:&quot;FL&quot;,&quot;callLetters&quot;:&quot;OPBMUSIC-FL&quot;</stringProp>
                 <stringProp name="1592867497">&quot;streams&quot;:</stringProp>
                 <stringProp name="1492799339">&quot;isActive&quot;:true,&quot;modified&quot;</stringProp>
                 <stringProp name="974711917">&quot;markets&quot;:</stringProp>
@@ -532,6 +558,8 @@
                 <stringProp name="-1563053013">&quot;primary&quot;:false</stringProp>
                 <stringProp name="-1011160118">&quot;sortIndex&quot;:</stringProp>
                 <stringProp name="1540423858">&quot;name&quot;:&quot;Alternative&quot;</stringProp>
+                <stringProp name="-986977819">&quot;logo&quot;:</stringProp>
+                <stringProp name="25956748">&quot;countries&quot;:&quot;US&quot;</stringProp>
                 <stringProp name="0"></stringProp>
               </collectionProp>
               <stringProp name="Assertion.test_field">Assertion.response_data</stringProp>
@@ -563,7 +591,7 @@
           <hashTree>
             <ResponseAssertion guiclass="AssertionGui" testclass="ResponseAssertion" testname="Response Assertion" enabled="true">
               <collectionProp name="Asserion.test_strings">
-                <stringProp name="785862933">&quot;id&quot;:6655,&quot;score&quot;:0.0,&quot;name&quot;:&quot;KJAZZ 88.1&quot;,&quot;responseType&quot;:&quot;LIVE&quot;,&quot;description&quot;:&quot;Los Angeles Jazz and Blues&quot;,&quot;band&quot;:&quot;FM&quot;,&quot;callLetters&quot;:&quot;KKJZ-FM&quot;,&quot;logo&quot;:&quot;http://radioedit.iheart.com/service/img/nop()/assets/images/93839294-07b0-4e26-babb-334d7f7b5d66.png&quot;,&quot;freq&quot;:&quot;88.1&quot;,&quot;countries&quot;:&quot;US&quot;</stringProp>
+                <stringProp name="-532849831">&quot;id&quot;:6655,&quot;score&quot;:0.0,&quot;name&quot;:&quot;KJAZZ 88.1&quot;,&quot;responseType&quot;:&quot;LIVE&quot;,&quot;description&quot;:&quot;Los Angeles Jazz and Blues&quot;,&quot;band&quot;:&quot;FM&quot;,&quot;callLetters&quot;:&quot;KKJZ-FM&quot;</stringProp>
                 <stringProp name="1592867497">&quot;streams&quot;:</stringProp>
                 <stringProp name="1492799339">&quot;isActive&quot;:true,&quot;modified&quot;</stringProp>
                 <stringProp name="409771008">&quot;markets&quot;:[{&quot;name&quot;:&quot;LOSANGELES-CA&quot;</stringProp>
@@ -588,6 +616,9 @@
                 <stringProp name="-1989650042">&quot;primary&quot;:true</stringProp>
                 <stringProp name="-1011160118">&quot;sortIndex&quot;:</stringProp>
                 <stringProp name="-285245362">&quot;name&quot;:&quot;Jazz&quot;</stringProp>
+                <stringProp name="-986977819">&quot;logo&quot;:</stringProp>
+                <stringProp name="-461738289">&quot;freq&quot;:&quot;88.1&quot;</stringProp>
+                <stringProp name="25956748">&quot;countries&quot;:&quot;US&quot;</stringProp>
               </collectionProp>
               <stringProp name="Assertion.test_field">Assertion.response_data</stringProp>
               <boolProp name="Assertion.assume_success">false</boolProp>
@@ -618,7 +649,7 @@
           <hashTree>
             <ResponseAssertion guiclass="AssertionGui" testclass="ResponseAssertion" testname="Response Assertion" enabled="true">
               <collectionProp name="Asserion.test_strings">
-                <stringProp name="1698364741">&quot;id&quot;:5371,&quot;score&quot;:0.0,&quot;name&quot;:&quot;95.5 PLJ&quot;,&quot;responseType&quot;:&quot;LIVE&quot;,&quot;description&quot;:&quot;New York&apos;s Best Music&quot;,&quot;band&quot;:&quot;FM&quot;,&quot;callLetters&quot;:&quot;WPLJ-FM&quot;,&quot;logo&quot;:&quot;http://radioedit.iheart.com/service/img/nop()/assets/images/ce0c11bc-a360-4c0a-8325-af5065238ccc.png&quot;,&quot;freq&quot;:&quot;95.5&quot;,&quot;cume&quot;:2286900,&quot;countries&quot;:&quot;US&quot;</stringProp>
+                <stringProp name="1422810266">&quot;id&quot;:5371,&quot;score&quot;:0.0,&quot;name&quot;:&quot;95.5 PLJ&quot;,&quot;responseType&quot;:&quot;LIVE&quot;,&quot;description&quot;:&quot;New York&apos;s Best Music&quot;,&quot;band&quot;:&quot;FM&quot;,&quot;callLetters&quot;:&quot;WPLJ-FM&quot;</stringProp>
                 <stringProp name="1592867497">&quot;streams&quot;:</stringProp>
                 <stringProp name="1492799339">&quot;isActive&quot;:true,&quot;modified&quot;</stringProp>
                 <stringProp name="1464772175">&quot;markets&quot;:[{&quot;name&quot;:&quot;NEWYORK-NY&quot;</stringProp>
@@ -636,7 +667,10 @@
                 <stringProp name="-1276257420">&quot;stw_stream&quot;:&quot;http://playerservices.streamtheworld.com/api/livestream?version=1.4&amp;mount=WPLJFMAAC&quot;</stringProp>
                 <stringProp name="2008441674">&quot;pls_stream&quot;:&quot;http://playerservices.streamtheworld.com/pls/WPLJFMAAC.pls&quot;</stringProp>
                 <stringProp name="877376890">&quot;feeds&quot;:{&quot;site_id&quot;:&quot;0&quot;},&quot;format&quot;:&quot;Prov_Cumulus&quot;,&quot;provider&quot;:&quot;Cumulus&quot;,&quot;rds&quot;:&quot;WPLJ-FM New York&quot;,&quot;website&quot;:&quot;www.plj.com&quot;,&quot;social&quot;:{}}]}</stringProp>
-                <stringProp name="0"></stringProp>
+                <stringProp name="-986977819">&quot;logo&quot;:</stringProp>
+                <stringProp name="-460904017">&quot;freq&quot;:&quot;95.5&quot;</stringProp>
+                <stringProp name="25956748">&quot;countries&quot;:&quot;US&quot;</stringProp>
+                <stringProp name="-1238929916">&quot;cume&quot;:</stringProp>
               </collectionProp>
               <stringProp name="Assertion.test_field">Assertion.response_data</stringProp>
               <boolProp name="Assertion.assume_success">false</boolProp>
@@ -667,7 +701,7 @@
           <hashTree>
             <ResponseAssertion guiclass="AssertionGui" testclass="ResponseAssertion" testname="Response Assertion" enabled="true">
               <collectionProp name="Asserion.test_strings">
-                <stringProp name="1717875573">&quot;id&quot;:6045,&quot;score&quot;:0.0,&quot;name&quot;:&quot;POWER106&quot;,&quot;responseType&quot;:&quot;LIVE&quot;,&quot;description&quot;:&quot;Where Hip Hop Lives in Los Angeles&quot;,&quot;band&quot;:&quot;FM&quot;,&quot;callLetters&quot;:&quot;KPWR-FM&quot;,&quot;logo&quot;:&quot;http://radioedit.iheart.com/service/img/nop()/assets/~52bca6e423d90a50228ff760/images/6045.png&quot;,&quot;freq&quot;:&quot;105.9&quot;,&quot;cume&quot;:2967400,&quot;countries&quot;:&quot;US&quot;</stringProp>
+                <stringProp name="-486635863">&quot;id&quot;:6045,&quot;score&quot;:0.0,&quot;name&quot;:&quot;POWER106&quot;,&quot;responseType&quot;:&quot;LIVE&quot;,&quot;description&quot;:&quot;Where Hip Hop Lives in Los Angeles&quot;,&quot;band&quot;:&quot;FM&quot;,&quot;callLetters&quot;:&quot;KPWR-FM&quot;</stringProp>
                 <stringProp name="1592867497">&quot;streams&quot;:</stringProp>
                 <stringProp name="-967860689">&quot;isActive&quot;:true,&quot;modified&quot;:</stringProp>
                 <stringProp name="974711917">&quot;markets&quot;:</stringProp>
@@ -691,6 +725,10 @@
                 <stringProp name="1970445570">&quot;name&quot;:&quot;Hip Hop and R&amp;B&quot;</stringProp>
                 <stringProp name="-1011160118">&quot;sortIndex&quot;:</stringProp>
                 <stringProp name="-1989650042">&quot;primary&quot;:true</stringProp>
+                <stringProp name="-986977819">&quot;logo&quot;:</stringProp>
+                <stringProp name="-1636570895">&quot;freq&quot;:&quot;105.9&quot;</stringProp>
+                <stringProp name="25956748">&quot;countries&quot;:&quot;US&quot;</stringProp>
+                <stringProp name="-1238929916">&quot;cume&quot;:</stringProp>
               </collectionProp>
               <stringProp name="Assertion.test_field">Assertion.response_data</stringProp>
               <boolProp name="Assertion.assume_success">false</boolProp>
@@ -721,7 +759,7 @@
           <hashTree>
             <ResponseAssertion guiclass="AssertionGui" testclass="ResponseAssertion" testname="Response Assertion" enabled="true">
               <collectionProp name="Asserion.test_strings">
-                <stringProp name="1492755299">&quot;id&quot;:5887,&quot;score&quot;:0.0,&quot;name&quot;:&quot;B98.5 FM&quot;,&quot;responseType&quot;:&quot;LIVE&quot;,&quot;description&quot;:&quot;Atlanta&apos;s 80&apos;s, 90&apos;s, and Now&quot;,&quot;band&quot;:&quot;FM&quot;,&quot;callLetters&quot;:&quot;WSB-FM&quot;,&quot;logo&quot;:&quot;http://radioedit.iheart.com/service/img/nop()/assets/images/cbaf2bba-7f0e-44c1-a50b-50159b794d29.png&quot;,&quot;freq&quot;:&quot;98.5&quot;,&quot;cume&quot;:1288200,&quot;countries&quot;:&quot;US&quot;</stringProp>
+                <stringProp name="1561579154">&quot;id&quot;:5887,&quot;score&quot;:0.0,&quot;name&quot;:&quot;B98.5 FM&quot;,&quot;responseType&quot;:&quot;LIVE&quot;,&quot;description&quot;:&quot;Atlanta&apos;s 80&apos;s, 90&apos;s, and Now&quot;,&quot;band&quot;:&quot;FM&quot;,&quot;callLetters&quot;:&quot;WSB-FM&quot;</stringProp>
                 <stringProp name="1592867497">&quot;streams&quot;:</stringProp>
                 <stringProp name="1492799339">&quot;isActive&quot;:true,&quot;modified&quot;</stringProp>
                 <stringProp name="974711917">&quot;markets&quot;:</stringProp>
@@ -745,6 +783,11 @@
                 <stringProp name="1808619349">&quot;name&quot;:&quot;Mix &amp; Variety&quot;</stringProp>
                 <stringProp name="-1011160118">&quot;sortIndex&quot;:</stringProp>
                 <stringProp name="-1989650042">&quot;primary&quot;:true</stringProp>
+                <stringProp name="-986977819">&quot;logo&quot;:</stringProp>
+                <stringProp name="-460814644">&quot;freq&quot;:&quot;98.5&quot;</stringProp>
+                <stringProp name="25956748">&quot;countries&quot;:&quot;US&quot;</stringProp>
+                <stringProp name="-1238929916">&quot;cume&quot;:</stringProp>
+                <stringProp name="0"></stringProp>
               </collectionProp>
               <stringProp name="Assertion.test_field">Assertion.response_data</stringProp>
               <boolProp name="Assertion.assume_success">false</boolProp>
@@ -775,7 +818,7 @@
           <hashTree>
             <ResponseAssertion guiclass="AssertionGui" testclass="ResponseAssertion" testname="Response Assertion" enabled="true">
               <collectionProp name="Asserion.test_strings">
-                <stringProp name="583474286">&quot;id&quot;:6609,&quot;score&quot;:0.0,&quot;name&quot;:&quot;Truth Radio 1340&quot;,&quot;responseType&quot;:&quot;LIVE&quot;,&quot;description&quot;:&quot;Elkhart County’s News &amp; Weather Station&quot;,&quot;band&quot;:&quot;AM&quot;,&quot;callLetters&quot;:&quot;WTRC-AM&quot;,&quot;logo&quot;:&quot;http://radioedit.iheart.com/service/img/nop()/assets/images/95128a0b-1080-4eb2-9f88-6dbe5e9cdcf2.png&quot;,&quot;freq&quot;:&quot;1340&quot;,&quot;countries&quot;:&quot;US&quot;</stringProp>
+                <stringProp name="1816528131">&quot;id&quot;:6609,&quot;score&quot;:0.0,&quot;name&quot;:&quot;Truth Radio 1340&quot;,&quot;responseType&quot;:&quot;LIVE&quot;,&quot;description&quot;:&quot;Elkhart County’s News &amp; Weather Station&quot;,&quot;band&quot;:&quot;AM&quot;,&quot;callLetters&quot;:&quot;WTRC-AM&quot;</stringProp>
                 <stringProp name="1592867497">&quot;streams&quot;:</stringProp>
                 <stringProp name="1492799339">&quot;isActive&quot;:true,&quot;modified&quot;</stringProp>
                 <stringProp name="201640037">&quot;markets&quot;:[{&quot;name&quot;:&quot;ELKHART-IN&quot;</stringProp>
@@ -793,8 +836,9 @@
                 <stringProp name="-1647415230">&quot;shoutcast_stream&quot;:&quot;http://ice8.securenetsystems.net/WTRC&quot;</stringProp>
                 <stringProp name="-2051863692">&quot;flv_stream&quot;:&quot;http://ice8.securenetsystems.net/WTRC?type=.flv&quot;</stringProp>
                 <stringProp name="2145810209">&quot;feeds&quot;:{&quot;site_id&quot;:&quot;0&quot;},&quot;format&quot;:&quot;Prov_Federated&quot;,&quot;provider&quot;:&quot;Federated&quot;,&quot;website&quot;:&quot;www.elkharttruth.com&quot;,&quot;social&quot;:{}}]}</stringProp>
-                <stringProp name="0"></stringProp>
-                <stringProp name="0"></stringProp>
+                <stringProp name="-986977819">&quot;logo&quot;:</stringProp>
+                <stringProp name="-468346156">&quot;freq&quot;:&quot;1340&quot;</stringProp>
+                <stringProp name="25956748">&quot;countries&quot;:&quot;US&quot;</stringProp>
               </collectionProp>
               <stringProp name="Assertion.test_field">Assertion.response_data</stringProp>
               <boolProp name="Assertion.assume_success">false</boolProp>
@@ -825,7 +869,7 @@
           <hashTree>
             <ResponseAssertion guiclass="AssertionGui" testclass="ResponseAssertion" testname="Response Assertion" enabled="true">
               <collectionProp name="Asserion.test_strings">
-                <stringProp name="2068255804">&quot;id&quot;:6269,&quot;score&quot;:0.0,&quot;name&quot;:&quot;630 CHED&quot;,&quot;responseType&quot;:&quot;LIVE&quot;,&quot;description&quot;:&quot;News. Talk. Sports. Edmonton&quot;,&quot;band&quot;:&quot;AM&quot;,&quot;callLetters&quot;:&quot;CHED-AM&quot;,&quot;logo&quot;:&quot;http://radioedit.iheart.com/service/img/nop()/assets/images/6269.png&quot;,&quot;freq&quot;:&quot;630.0&quot;,&quot;countries&quot;:&quot;CA&quot;</stringProp>
+                <stringProp name="1137888770">&quot;id&quot;:6269,&quot;score&quot;:0.0,&quot;name&quot;:&quot;630 CHED&quot;,&quot;responseType&quot;:&quot;LIVE&quot;,&quot;description&quot;:&quot;News. Talk. Sports. Edmonton&quot;,&quot;band&quot;:&quot;AM&quot;,&quot;callLetters&quot;:&quot;CHED-AM&quot;</stringProp>
                 <stringProp name="1592867497">&quot;streams&quot;:</stringProp>
                 <stringProp name="1492799339">&quot;isActive&quot;:true,&quot;modified&quot;</stringProp>
                 <stringProp name="974711917">&quot;markets&quot;:</stringProp>
@@ -844,7 +888,9 @@
                 <stringProp name="-435481274">&quot;shoutcast_stream&quot;:&quot;http://live.leanstream.co/CHEDAM&quot;</stringProp>
                 <stringProp name="-1333698104">&quot;flv_stream&quot;:&quot;http://live.leanstream.co/CHEDAM?type=.flv&quot;</stringProp>
                 <stringProp name="437433853">&quot;feeds&quot;:{&quot;site_id&quot;:&quot;0&quot;},&quot;format&quot;:&quot;Prov_International&quot;,&quot;provider&quot;:&quot;International&quot;,&quot;rds&quot;:&quot;630 CHED&quot;,&quot;website&quot;:&quot;http://www.630ched.com/&quot;,&quot;social&quot;:{}}]}</stringProp>
-                <stringProp name="0"></stringProp>
+                <stringProp name="-986977819">&quot;logo&quot;:</stringProp>
+                <stringProp name="-1490803811">&quot;freq&quot;:&quot;630.0&quot;</stringProp>
+                <stringProp name="25938892">&quot;countries&quot;:&quot;CA&quot;</stringProp>
                 <stringProp name="0"></stringProp>
               </collectionProp>
               <stringProp name="Assertion.test_field">Assertion.response_data</stringProp>
@@ -876,7 +922,7 @@
           <hashTree>
             <ResponseAssertion guiclass="AssertionGui" testclass="ResponseAssertion" testname="Response Assertion" enabled="true">
               <collectionProp name="Asserion.test_strings">
-                <stringProp name="1827795655">&quot;id&quot;:6559,&quot;score&quot;:0.0,&quot;name&quot;:&quot;Azucar&quot;,&quot;responseType&quot;:&quot;LIVE&quot;,&quot;description&quot;:&quot;Hot Hits from all Latin Rhythmic Music&quot;,&quot;band&quot;:&quot;FL&quot;,&quot;callLetters&quot;:&quot;AZUCAR-FL&quot;,&quot;logo&quot;:&quot;http://radioedit.iheart.com/service/img/nop()/assets/images/0ae9031e-677b-45f3-877d-8f5f3d8953db.png&quot;,&quot;countries&quot;:&quot;US&quot;</stringProp>
+                <stringProp name="395533382">&quot;id&quot;:6559,&quot;score&quot;:0.0,&quot;name&quot;:&quot;Azucar&quot;,&quot;responseType&quot;:&quot;LIVE&quot;,&quot;description&quot;:&quot;Hot Hits from all Latin Rhythmic Music&quot;,&quot;band&quot;:&quot;FL&quot;,&quot;callLetters&quot;:&quot;AZUCAR-FL&quot;</stringProp>
                 <stringProp name="1592867497">&quot;streams&quot;:</stringProp>
                 <stringProp name="1492799339">&quot;isActive&quot;:true,&quot;modified&quot;</stringProp>
                 <stringProp name="974711917">&quot;markets&quot;:</stringProp>
@@ -895,8 +941,8 @@
                 <stringProp name="-1989650042">&quot;primary&quot;:true</stringProp>
                 <stringProp name="-1096637010">&quot;origin&quot;:true</stringProp>
                 <stringProp name="-1315574093">&quot;feeds&quot;:{&quot;site_id&quot;:&quot;0&quot;},&quot;format&quot;:&quot;Prov_Stardome&quot;,&quot;provider&quot;:&quot;Stardome&quot;,&quot;website&quot;:&quot;www.azucarhits.com&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;AzucarRadio&quot;,&quot;facebook&quot;:&quot;azucarhits&quot;}}]}</stringProp>
-                <stringProp name="0"></stringProp>
-                <stringProp name="0"></stringProp>
+                <stringProp name="-986977819">&quot;logo&quot;:</stringProp>
+                <stringProp name="25956748">&quot;countries&quot;:&quot;US&quot;</stringProp>
               </collectionProp>
               <stringProp name="Assertion.test_field">Assertion.response_data</stringProp>
               <boolProp name="Assertion.assume_success">false</boolProp>
@@ -927,7 +973,7 @@
           <hashTree>
             <ResponseAssertion guiclass="AssertionGui" testclass="ResponseAssertion" testname="Response Assertion" enabled="true">
               <collectionProp name="Asserion.test_strings">
-                <stringProp name="-772292661">&quot;id&quot;:6589,&quot;score&quot;:0.0,&quot;name&quot;:&quot;KEXP 90.3&quot;,&quot;responseType&quot;:&quot;LIVE&quot;,&quot;description&quot;:&quot;Seattle’s listener-powered music radio!&quot;,&quot;band&quot;:&quot;FM&quot;,&quot;callLetters&quot;:&quot;KEXP-FM&quot;,&quot;logo&quot;:&quot;http://radioedit.iheart.com/service/img/nop()/assets/images/72837010-243a-4e4b-aef4-2b94583d99ad.png&quot;,&quot;freq&quot;:&quot;90.3&quot;,&quot;countries&quot;:&quot;US&quot;</stringProp>
+                <stringProp name="-1319028058">&quot;id&quot;:6589,&quot;score&quot;:0.0,&quot;name&quot;:&quot;KEXP 90.3&quot;,&quot;responseType&quot;:&quot;LIVE&quot;,&quot;description&quot;:&quot;Seattle’s listener-powered music radio!&quot;,&quot;band&quot;:&quot;FM&quot;,&quot;callLetters&quot;:&quot;KEXP-FM&quot;</stringProp>
                 <stringProp name="1592867497">&quot;streams&quot;:</stringProp>
                 <stringProp name="1492799339">&quot;isActive&quot;:true,&quot;modified&quot;</stringProp>
                 <stringProp name="2020368393">&quot;markets&quot;:[{&quot;name&quot;:&quot;SEATTLE-WA&quot;</stringProp>
@@ -948,7 +994,9 @@
                 <stringProp name="-1989650042">&quot;primary&quot;:true</stringProp>
                 <stringProp name="-1011160118">&quot;sortIndex&quot;:</stringProp>
                 <stringProp name="1540423858">&quot;name&quot;:&quot;Alternative&quot;</stringProp>
-                <stringProp name="0"></stringProp>
+                <stringProp name="-986977819">&quot;logo&quot;:</stringProp>
+                <stringProp name="-461053034">&quot;freq&quot;:&quot;90.3&quot;</stringProp>
+                <stringProp name="25956748">&quot;countries&quot;:&quot;US&quot;</stringProp>
               </collectionProp>
               <stringProp name="Assertion.test_field">Assertion.response_data</stringProp>
               <boolProp name="Assertion.assume_success">false</boolProp>
@@ -979,7 +1027,7 @@
           <hashTree>
             <ResponseAssertion guiclass="AssertionGui" testclass="ResponseAssertion" testname="Response Assertion" enabled="true">
               <collectionProp name="Asserion.test_strings">
-                <stringProp name="-841271599">&quot;id&quot;:6650,&quot;score&quot;:0.0,&quot;name&quot;:&quot;Faith And Friends Radio&quot;,&quot;responseType&quot;:&quot;LIVE&quot;,&quot;description&quot;:&quot;Current &amp; Classic Christian Hits, Dayton&quot;,&quot;band&quot;:&quot;FL&quot;,&quot;callLetters&quot;:&quot;FANDF-FL&quot;,&quot;logo&quot;:&quot;http://radioedit.iheart.com/service/img/nop()/assets/images/cd24005c-32e4-4c91-8489-a26556c5b59e.png&quot;,&quot;freq&quot;:&quot;0.0&quot;,&quot;countries&quot;:&quot;US&quot;</stringProp>
+                <stringProp name="1262658474">&quot;id&quot;:6650,&quot;score&quot;:0.0,&quot;name&quot;:&quot;Faith And Friends Radio&quot;,&quot;responseType&quot;:&quot;LIVE&quot;,&quot;description&quot;:&quot;Current &amp; Classic Christian Hits, Dayton&quot;,&quot;band&quot;:&quot;FL&quot;,&quot;callLetters&quot;:&quot;FANDF-FL&quot;</stringProp>
                 <stringProp name="1592867497">&quot;streams&quot;:</stringProp>
                 <stringProp name="-967860689">&quot;isActive&quot;:true,&quot;modified&quot;:</stringProp>
                 <stringProp name="-1776620384">&quot;markets&quot;:[{&quot;name&quot;:&quot;DIGITAL-NAT&quot;</stringProp>
@@ -997,7 +1045,9 @@
                 <stringProp name="-1481877246">&quot;shoutcast_stream&quot;:&quot;http://ffradio.streamon.fm:8000/ffradio-32k.aac&quot;</stringProp>
                 <stringProp name="-2083965388">&quot;flv_stream&quot;:&quot;http://ffradio.streamon.fm:8000/ffradio-32k.aac?type=.flv&quot;</stringProp>
                 <stringProp name="-1300825273">&quot;feeds&quot;:{&quot;site_id&quot;:&quot;0&quot;},&quot;format&quot;:&quot;Prov_Other&quot;,&quot;provider&quot;:&quot;Other&quot;,&quot;website&quot;:&quot;www.faithandfriendsradio.com&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;FAFRadio&quot;,&quot;facebook&quot;:&quot;faithandfriends&quot;}}]}</stringProp>
-                <stringProp name="0"></stringProp>
+                <stringProp name="-986977819">&quot;logo&quot;:</stringProp>
+                <stringProp name="25956748">&quot;countries&quot;:&quot;US&quot;</stringProp>
+                <stringProp name="-430784672">&quot;freq&quot;:&quot;0.0&quot;</stringProp>
                 <stringProp name="0"></stringProp>
               </collectionProp>
               <stringProp name="Assertion.test_field">Assertion.response_data</stringProp>
@@ -1029,7 +1079,7 @@
           <hashTree>
             <ResponseAssertion guiclass="AssertionGui" testclass="ResponseAssertion" testname="Response Assertion" enabled="true">
               <collectionProp name="Asserion.test_strings">
-                <stringProp name="944783614">&quot;id&quot;:6691,&quot;score&quot;:0.0,&quot;name&quot;:&quot;True Oldies Channel&quot;,&quot;responseType&quot;:&quot;LIVE&quot;,&quot;description&quot;:&quot;Scott Shannon&apos;s True Oldies Channel&quot;,&quot;band&quot;:&quot;FL&quot;,&quot;callLetters&quot;:&quot;SSTO-FL&quot;,&quot;logo&quot;:&quot;http://radioedit.iheart.com/service/img/nop()/assets/images/3d262f9b-fe80-4f4c-90ed-45d487b4d6f7.png&quot;,&quot;countries&quot;:&quot;US&quot;</stringProp>
+                <stringProp name="1708625723">&quot;id&quot;:6691,&quot;score&quot;:0.0,&quot;name&quot;:&quot;True Oldies Channel&quot;,&quot;responseType&quot;:&quot;LIVE&quot;,&quot;description&quot;:&quot;Scott Shannon&apos;s True Oldies Channel&quot;,&quot;band&quot;:&quot;FL&quot;,&quot;callLetters&quot;:&quot;SSTO-FL&quot;</stringProp>
                 <stringProp name="1592867497">&quot;streams&quot;:</stringProp>
                 <stringProp name="1492799339">&quot;isActive&quot;:true,&quot;modified&quot;</stringProp>
                 <stringProp name="-1776620384">&quot;markets&quot;:[{&quot;name&quot;:&quot;DIGITAL-NAT&quot;</stringProp>
@@ -1047,6 +1097,9 @@
                 <stringProp name="-582248032">&quot;shoutcast_stream&quot;:&quot;http://streaming.streamonomy.com/trueoldies_64&quot;</stringProp>
                 <stringProp name="-485673054">&quot;flv_stream&quot;:&quot;http://streaming.streamonomy.com/trueoldies_64?type=.flv&quot;</stringProp>
                 <stringProp name="-305140367">&quot;feeds&quot;:{&quot;site_id&quot;:&quot;0&quot;},&quot;format&quot;:&quot;Prov_Other&quot;,&quot;provider&quot;:&quot;Other&quot;,&quot;website&quot;:&quot;www.trueoldieschannel.com&quot;,&quot;social&quot;:{&quot;facebook&quot;:&quot;TrueOldiesChannel&quot;}}]}</stringProp>
+                <stringProp name="-986977819">&quot;logo&quot;:</stringProp>
+                <stringProp name="25956748">&quot;countries&quot;:&quot;US&quot;</stringProp>
+                <stringProp name="0"></stringProp>
                 <stringProp name="0"></stringProp>
               </collectionProp>
               <stringProp name="Assertion.test_field">Assertion.response_data</stringProp>
@@ -1078,7 +1131,7 @@
           <hashTree>
             <ResponseAssertion guiclass="AssertionGui" testclass="ResponseAssertion" testname="Response Assertion" enabled="true">
               <collectionProp name="Asserion.test_strings">
-                <stringProp name="-627991725">&quot;id&quot;:6588,&quot;score&quot;:0.0,&quot;name&quot;:&quot;talkSPORT&quot;,&quot;responseType&quot;:&quot;LIVE&quot;,&quot;description&quot;:&quot;The World&apos;s Biggest Sports Radio Station&quot;,&quot;band&quot;:&quot;FL&quot;,&quot;callLetters&quot;:&quot;TALKSPRT-FL&quot;,&quot;logo&quot;:&quot;http://radioedit.iheart.com/service/img/nop()/assets/images/86fa8e3e-c2da-476b-b994-7045490b7336.png&quot;,&quot;freq&quot;:&quot;0&quot;,&quot;countries&quot;:&quot;US&quot;</stringProp>
+                <stringProp name="2051772760">&quot;id&quot;:6588,&quot;score&quot;:0.0,&quot;name&quot;:&quot;talkSPORT&quot;,&quot;responseType&quot;:&quot;LIVE&quot;,&quot;description&quot;:&quot;The World&apos;s Biggest Sports Radio Station&quot;,&quot;band&quot;:&quot;FL&quot;,&quot;callLetters&quot;:&quot;TALKSPRT-FL&quot;</stringProp>
                 <stringProp name="1592867497">&quot;streams&quot;:</stringProp>
                 <stringProp name="1492799339">&quot;isActive&quot;:true,&quot;modified&quot;</stringProp>
                 <stringProp name="-1776620384">&quot;markets&quot;:[{&quot;name&quot;:&quot;DIGITAL-NAT&quot;</stringProp>
@@ -1098,6 +1151,10 @@
                 <stringProp name="710117625">{&quot;id&quot;:9,&quot;name&quot;:&quot;News &amp; Talk&quot;</stringProp>
                 <stringProp name="1912250689">&quot;format&quot;:&quot;Prov_Other&quot;,&quot;provider&quot;:&quot;UTV Radio&quot;,&quot;website&quot;:&quot;www.talksport.com&quot;,&quot;social&quot;:{}}]}</stringProp>
                 <stringProp name="502129218">&quot;feeds&quot;:{&quot;site_id&quot;:&quot;0&quot;}</stringProp>
+                <stringProp name="-986977819">&quot;logo&quot;:</stringProp>
+                <stringProp name="25956748">&quot;countries&quot;:&quot;US&quot;</stringProp>
+                <stringProp name="1760443618">&quot;freq&quot;:&quot;0&quot;</stringProp>
+                <stringProp name="0"></stringProp>
               </collectionProp>
               <stringProp name="Assertion.test_field">Assertion.response_data</stringProp>
               <boolProp name="Assertion.assume_success">false</boolProp>
@@ -1128,7 +1185,7 @@
           <hashTree>
             <ResponseAssertion guiclass="AssertionGui" testclass="ResponseAssertion" testname="Response Assertion" enabled="true">
               <collectionProp name="Asserion.test_strings">
-                <stringProp name="-617058712">&quot;id&quot;:6456,&quot;score&quot;:0.0,&quot;name&quot;:&quot;This American Life 24/7&quot;,&quot;responseType&quot;:&quot;LIVE&quot;,&quot;description&quot;:&quot;Public radio show hosted by Ira Glass&quot;,&quot;band&quot;:&quot;FL&quot;,&quot;callLetters&quot;:&quot;TAL-FL&quot;,&quot;logo&quot;:&quot;http://radioedit.iheart.com/service/img/nop()/assets/images/6456.png&quot;,&quot;freq&quot;:&quot;0.0&quot;,&quot;countries&quot;:&quot;US&quot;</stringProp>
+                <stringProp name="-135878287">&quot;id&quot;:6456,&quot;score&quot;:0.0,&quot;name&quot;:&quot;This American Life 24/7&quot;,&quot;responseType&quot;:&quot;LIVE&quot;,&quot;description&quot;:&quot;Public radio show hosted by Ira Glass&quot;,&quot;band&quot;:&quot;FL&quot;,&quot;callLetters&quot;:&quot;TAL-FL&quot;</stringProp>
                 <stringProp name="1592867497">&quot;streams&quot;:</stringProp>
                 <stringProp name="1492799339">&quot;isActive&quot;:true,&quot;modified&quot;</stringProp>
                 <stringProp name="974711917">&quot;markets&quot;:</stringProp>
@@ -1148,6 +1205,9 @@
                 <stringProp name="146609730">&quot;pls_stream&quot;:</stringProp>
                 <stringProp name="64840686">&quot;feeds&quot;:{&quot;site_id&quot;:&quot;0&quot;},&quot;format&quot;:&quot;Prov_Public&quot;,&quot;provider&quot;:&quot;Public&quot;,&quot;rds&quot;:&quot;This American Life&quot;,&quot;website&quot;:&quot;http://www.thisamericanlife.org/&quot;,&quot;social&quot;:{}}]}</stringProp>
                 <stringProp name="1797234025">{&quot;id&quot;:93,&quot;name&quot;:&quot;Public Radio&quot;</stringProp>
+                <stringProp name="-986977819">&quot;logo&quot;:</stringProp>
+                <stringProp name="25956748">&quot;countries&quot;:&quot;US&quot;</stringProp>
+                <stringProp name="-430784672">&quot;freq&quot;:&quot;0.0&quot;</stringProp>
                 <stringProp name="0"></stringProp>
               </collectionProp>
               <stringProp name="Assertion.test_field">Assertion.response_data</stringProp>
@@ -1179,7 +1239,7 @@
           <hashTree>
             <ResponseAssertion guiclass="AssertionGui" testclass="ResponseAssertion" testname="Response Assertion" enabled="true">
               <collectionProp name="Asserion.test_strings">
-                <stringProp name="-695220913">&quot;id&quot;:6430,&quot;score&quot;:0.0,&quot;name&quot;:&quot;WFUV On-Air&quot;,&quot;responseType&quot;:&quot;LIVE&quot;,&quot;description&quot;:&quot;NY&apos;s Music Discovery: Fordham Univ.&quot;,&quot;band&quot;:&quot;FM&quot;,&quot;callLetters&quot;:&quot;WFUV-FM&quot;,&quot;logo&quot;:&quot;http://radioedit.iheart.com/service/img/nop()/assets/images/6430.png&quot;,&quot;freq&quot;:&quot;92.1&quot;,&quot;countries&quot;:&quot;US&quot;</stringProp>
+                <stringProp name="-1225389424">&quot;id&quot;:6430,&quot;score&quot;:0.0,&quot;name&quot;:&quot;WFUV On-Air&quot;,&quot;responseType&quot;:&quot;LIVE&quot;,&quot;description&quot;:&quot;NY&apos;s Music Discovery: Fordham Univ.&quot;,&quot;band&quot;:&quot;FM&quot;,&quot;callLetters&quot;:&quot;WFUV-FM&quot;</stringProp>
                 <stringProp name="1592867497">&quot;streams&quot;:</stringProp>
                 <stringProp name="1492799339">&quot;isActive&quot;:true,&quot;modified&quot;</stringProp>
                 <stringProp name="1464772175">&quot;markets&quot;:[{&quot;name&quot;:&quot;NEWYORK-NY&quot;</stringProp>
@@ -1199,8 +1259,12 @@
                 <stringProp name="256593876">&quot;feeds&quot;:{&quot;site_id&quot;:&quot;0&quot;},&quot;format&quot;:&quot;Prov_Public&quot;,&quot;provider&quot;:&quot;Public&quot;,&quot;rds&quot;:&quot;WFUV-FM&quot;,&quot;website&quot;:&quot;http://www.wfuv.org/&quot;,&quot;social&quot;:{}}]}</stringProp>
                 <stringProp name="-1989650042">&quot;primary&quot;:true</stringProp>
                 <stringProp name="-1011160118">&quot;sortIndex&quot;:</stringProp>
-                <stringProp name="-1587480639">&quot;primary&quot;:false},{&quot;id&quot;:1,&quot;name&quot;:&quot;Alternative&quot;</stringProp>
-                <stringProp name="0"></stringProp>
+                <stringProp name="-1563053013">&quot;primary&quot;:false</stringProp>
+                <stringProp name="1073374460">&quot;id&quot;:1</stringProp>
+                <stringProp name="1540423858">&quot;name&quot;:&quot;Alternative&quot;</stringProp>
+                <stringProp name="-986977819">&quot;logo&quot;:</stringProp>
+                <stringProp name="-460993514">&quot;freq&quot;:&quot;92.1&quot;</stringProp>
+                <stringProp name="25956748">&quot;countries&quot;:&quot;US&quot;</stringProp>
               </collectionProp>
               <stringProp name="Assertion.test_field">Assertion.response_data</stringProp>
               <boolProp name="Assertion.assume_success">false</boolProp>
@@ -1231,7 +1295,7 @@
           <hashTree>
             <ResponseAssertion guiclass="AssertionGui" testclass="ResponseAssertion" testname="Response Assertion" enabled="true">
               <collectionProp name="Asserion.test_strings">
-                <stringProp name="-932814077">&quot;id&quot;:6708,&quot;score&quot;:0.0,&quot;name&quot;:&quot;96FM Perth&quot;,&quot;responseType&quot;:&quot;LIVE&quot;,&quot;description&quot;:&quot;We&apos;re for real music lovers&quot;,&quot;band&quot;:&quot;FM&quot;,&quot;callLetters&quot;:&quot;96FM-FM&quot;,&quot;logo&quot;:&quot;http://radioedit.iheart.com/service/img/nop()/assets/images/aca414df-f97c-41bd-8388-8e14342928c4.png&quot;,&quot;freq&quot;:&quot;96.1&quot;,&quot;countries&quot;:&quot;AU&quot;</stringProp>
+                <stringProp name="2034210397">&quot;id&quot;:6708,&quot;score&quot;:0.0,&quot;name&quot;:&quot;96FM Perth&quot;,&quot;responseType&quot;:&quot;LIVE&quot;,&quot;description&quot;:&quot;We&apos;re for real music lovers&quot;,&quot;band&quot;:&quot;FM&quot;,&quot;callLetters&quot;:&quot;96FM-FM&quot;</stringProp>
                 <stringProp name="1592867497">&quot;streams&quot;:</stringProp>
                 <stringProp name="1492799339">&quot;isActive&quot;:true,&quot;modified&quot;</stringProp>
                 <stringProp name="974711917">&quot;markets&quot;:</stringProp>
@@ -1260,7 +1324,9 @@
                 <stringProp name="-1011160118">&quot;sortIndex&quot;:</stringProp>
                 <stringProp name="-993431390">&quot;name&quot;:&quot;80s &amp; 90s Hits&quot;</stringProp>
                 <stringProp name="-1335053006">&quot;name&quot;:&quot;Classic Rock&quot;</stringProp>
-                <stringProp name="0"></stringProp>
+                <stringProp name="-986977819">&quot;logo&quot;:</stringProp>
+                <stringProp name="-460874350">&quot;freq&quot;:&quot;96.1&quot;</stringProp>
+                <stringProp name="25937590">&quot;countries&quot;:&quot;AU&quot;</stringProp>
               </collectionProp>
               <stringProp name="Assertion.test_field">Assertion.response_data</stringProp>
               <boolProp name="Assertion.assume_success">false</boolProp>
@@ -1291,7 +1357,7 @@
           <hashTree>
             <ResponseAssertion guiclass="AssertionGui" testclass="ResponseAssertion" testname="Response Assertion" enabled="true">
               <collectionProp name="Asserion.test_strings">
-                <stringProp name="-523313143">&quot;id&quot;:6188,&quot;score&quot;:0.0,&quot;name&quot;:&quot;Newstalk ZB Wellington&quot;,&quot;responseType&quot;:&quot;LIVE&quot;,&quot;description&quot;:&quot;Keep up with Newstalk ZB Wellington&quot;,&quot;band&quot;:&quot;FM&quot;,&quot;callLetters&quot;:&quot;ZBWN-FM&quot;,&quot;logo&quot;:&quot;http://radioedit.iheart.com/service/img/nop()/assets/images/6188.png&quot;,&quot;freq&quot;:&quot;92.1&quot;,&quot;countries&quot;:&quot;NZ&quot;</stringProp>
+                <stringProp name="928503496">&quot;id&quot;:6188,&quot;score&quot;:0.0,&quot;name&quot;:&quot;Newstalk ZB Wellington&quot;,&quot;responseType&quot;:&quot;LIVE&quot;,&quot;description&quot;:&quot;Keep up with Newstalk ZB Wellington&quot;,&quot;band&quot;:&quot;FM&quot;,&quot;callLetters&quot;:&quot;ZBWN-FM&quot;</stringProp>
                 <stringProp name="1592867497">&quot;streams&quot;:</stringProp>
                 <stringProp name="-1075232936">&quot;isActive&quot;:true</stringProp>
                 <stringProp name="974711917">&quot;markets&quot;:</stringProp>
@@ -1317,6 +1383,9 @@
                 <stringProp name="245180076">&quot;name&quot;:&quot;News &amp; Talk&quot;</stringProp>
                 <stringProp name="1073374468">&quot;id&quot;:9</stringProp>
                 <stringProp name="7429271">&quot;modified&quot;</stringProp>
+                <stringProp name="-986977819">&quot;logo&quot;:</stringProp>
+                <stringProp name="-460993514">&quot;freq&quot;:&quot;92.1&quot;</stringProp>
+                <stringProp name="25950238">&quot;countries&quot;:&quot;NZ&quot;</stringProp>
               </collectionProp>
               <stringProp name="Assertion.test_field">Assertion.response_data</stringProp>
               <boolProp name="Assertion.assume_success">false</boolProp>
@@ -1347,7 +1416,7 @@
           <hashTree>
             <ResponseAssertion guiclass="AssertionGui" testclass="ResponseAssertion" testname="Response Assertion" enabled="true">
               <collectionProp name="Asserion.test_strings">
-                <stringProp name="1840478825">&quot;id&quot;:6767,&quot;score&quot;:0.0,&quot;name&quot;:&quot;97.7 Kicker FM&quot;,&quot;responseType&quot;:&quot;LIVE&quot;,&quot;description&quot;:&quot;Auburn and Opelika’s Best Country&quot;,&quot;band&quot;:&quot;FM&quot;,&quot;callLetters&quot;:&quot;WKKR-FM&quot;,&quot;logo&quot;:&quot;http://radioedit.iheart.com/service/img/nop()/assets/images/54285e09-d29f-4f9d-9a2b-9b83e8b50940.png&quot;,&quot;freq&quot;:&quot;97.7&quot;,&quot;countries&quot;:&quot;US&quot;</stringProp>
+                <stringProp name="-1528402979">&quot;id&quot;:6767,&quot;score&quot;:0.0,&quot;name&quot;:&quot;97.7 Kicker FM&quot;,&quot;responseType&quot;:&quot;LIVE&quot;,&quot;description&quot;:&quot;Auburn and Opelika’s Best Country&quot;,&quot;band&quot;:&quot;FM&quot;,&quot;callLetters&quot;:&quot;WKKR-FM&quot;</stringProp>
                 <stringProp name="1592867497">&quot;streams&quot;:</stringProp>
                 <stringProp name="1492799339">&quot;isActive&quot;:true,&quot;modified&quot;</stringProp>
                 <stringProp name="-1129264713">&quot;markets&quot;:[{&quot;name&quot;:&quot;AUBURN-AL&quot;</stringProp>
@@ -1365,6 +1434,9 @@
                 <stringProp name="-1373924486">&quot;secure_rtmp_stream&quot;:&quot;rtmp://cp293157.live.edgefcs.net/live/Aub_AL_WKKR-FM_OR@1022&quot;</stringProp>
                 <stringProp name="688004684">&quot;shoutcast_stream&quot;:&quot;http://wkkr-fm.akacast.akamaistream.net/7/55/293157/v1/auth.akacast.akamaistream.net/wkkr-fm&quot;</stringProp>
                 <stringProp name="718998594">&quot;esid&quot;:&quot;4818&quot;,&quot;feeds&quot;:{&quot;site_id&quot;:&quot;15334&quot;,&quot;feed&quot;:&quot;wkkr-fm.app.clearchannel.com&quot;},&quot;format&quot;:&quot;COUNTRY&quot;,&quot;provider&quot;:&quot;Clear Channel&quot;,&quot;website&quot;:&quot;www.kickerfm.com&quot;,&quot;social&quot;:{},&quot;callLetterAlias&quot;:&quot;WKKR-FM&quot;,&quot;callLetterRoyalty&quot;:&quot;WKKR-FM&quot;}]}</stringProp>
+                <stringProp name="-986977819">&quot;logo&quot;:</stringProp>
+                <stringProp name="-460844373">&quot;freq&quot;:&quot;97.7&quot;</stringProp>
+                <stringProp name="25956748">&quot;countries&quot;:&quot;US&quot;</stringProp>
                 <stringProp name="0"></stringProp>
               </collectionProp>
               <stringProp name="Assertion.test_field">Assertion.response_data</stringProp>
@@ -1396,7 +1468,7 @@
           <hashTree>
             <ResponseAssertion guiclass="AssertionGui" testclass="ResponseAssertion" testname="Response Assertion" enabled="true">
               <collectionProp name="Asserion.test_strings">
-                <stringProp name="-198606881">&quot;id&quot;:5173,&quot;score&quot;:0.0,&quot;name&quot;:&quot;X96.3 FM New York&quot;,&quot;responseType&quot;:&quot;LIVE&quot;,&quot;description&quot;:&quot;Musica urbana y mucho mas&quot;,&quot;band&quot;:&quot;FM&quot;,&quot;callLetters&quot;:&quot;WXNY-FM&quot;,&quot;logo&quot;:&quot;http://radioedit.iheart.com/service/img/nop()/assets/images/449abd6e-b639-4f65-b528-f55931041e8b.png&quot;,&quot;freq&quot;:&quot;96.3&quot;,&quot;cume&quot;:1901900,&quot;countries&quot;:&quot;US&quot;</stringProp>
+                <stringProp name="1871246491">&quot;id&quot;:5173,&quot;score&quot;:0.0,&quot;name&quot;:&quot;X96.3 FM New York&quot;,&quot;responseType&quot;:&quot;LIVE&quot;,&quot;description&quot;:&quot;Musica urbana y mucho mas&quot;,&quot;band&quot;:&quot;FM&quot;,&quot;callLetters&quot;:&quot;WXNY-FM&quot;</stringProp>
                 <stringProp name="1592867497">&quot;streams&quot;:</stringProp>
                 <stringProp name="1492799339">&quot;isActive&quot;:true,&quot;modified&quot;</stringProp>
                 <stringProp name="1464772175">&quot;markets&quot;:[{&quot;name&quot;:&quot;NEWYORK-NY&quot;</stringProp>
@@ -1416,6 +1488,10 @@
                 <stringProp name="1380524466">&quot;shoutcast_stream&quot;:&quot;http://stream.abacast.net/direct/univision-wxnyfmaacihrt-ibc1?source=iheartother&quot;</stringProp>
                 <stringProp name="112797869">&quot;flv_stream&quot;:&quot;http://stream.abacast.net/direct/univision-wxnyfmaacihrt-ibc1?type=.flv&amp;source=iheartdesktop&quot;</stringProp>
                 <stringProp name="-696526890">&quot;feeds&quot;:{&quot;site_id&quot;:&quot;0&quot;},&quot;format&quot;:&quot;Prov_Univision&quot;,&quot;provider&quot;:&quot;Univision&quot;,&quot;rds&quot;:&quot;WXNY-FM New York&quot;,&quot;website&quot;:&quot;x963fm.univision.com/&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;x963fm&quot;}}]}</stringProp>
+                <stringProp name="-1097331901">logo&quot;:</stringProp>
+                <stringProp name="-460874288">&quot;freq&quot;:&quot;96.3&quot;</stringProp>
+                <stringProp name="1068413174">&quot;cume&quot;</stringProp>
+                <stringProp name="25956748">&quot;countries&quot;:&quot;US&quot;</stringProp>
               </collectionProp>
               <stringProp name="Assertion.test_field">Assertion.response_data</stringProp>
               <boolProp name="Assertion.assume_success">false</boolProp>
@@ -1446,7 +1522,7 @@
           <hashTree>
             <ResponseAssertion guiclass="AssertionGui" testclass="ResponseAssertion" testname="Response Assertion" enabled="true">
               <collectionProp name="Asserion.test_strings">
-                <stringProp name="-1318589254">&quot;id&quot;:6291,&quot;score&quot;:0.0,&quot;name&quot;:&quot;The Current&quot;,&quot;responseType&quot;:&quot;LIVE&quot;,&quot;description&quot;:&quot;Minnesota Indie, Alt &amp; Roots Station&quot;,&quot;band&quot;:&quot;FM&quot;,&quot;callLetters&quot;:&quot;KCMP-FM&quot;,&quot;logo&quot;:&quot;http://radioedit.iheart.com/service/img/nop()/assets/images/6291.png&quot;,&quot;freq&quot;:&quot;92.3&quot;,&quot;cume&quot;:259400,&quot;countries&quot;:&quot;US&quot;</stringProp>
+                <stringProp name="-1102075670">&quot;id&quot;:6291,&quot;score&quot;:0.0,&quot;name&quot;:&quot;The Current&quot;,&quot;responseType&quot;:&quot;LIVE&quot;,&quot;description&quot;:&quot;Minnesota Indie, Alt &amp; Roots Station&quot;,&quot;band&quot;:&quot;FM&quot;,&quot;callLetters&quot;:&quot;KCMP-FM&quot;</stringProp>
                 <stringProp name="1592867497">&quot;streams&quot;:</stringProp>
                 <stringProp name="1492799339">&quot;isActive&quot;:true,&quot;modified&quot;</stringProp>
                 <stringProp name="974711917">&quot;markets&quot;:</stringProp>
@@ -1469,6 +1545,10 @@
                 <stringProp name="-1011160118">&quot;sortIndex&quot;:</stringProp>
                 <stringProp name="405350404">&quot;id&quot;:93,&quot;name&quot;:&quot;Public Radio&quot;</stringProp>
                 <stringProp name="-1989650042">&quot;primary&quot;:true</stringProp>
+                <stringProp name="-986977819">&quot;logo&quot;:</stringProp>
+                <stringProp name="-460993452">&quot;freq&quot;:&quot;92.3&quot;</stringProp>
+                <stringProp name="-1238929916">&quot;cume&quot;:</stringProp>
+                <stringProp name="25956748">&quot;countries&quot;:&quot;US&quot;</stringProp>
               </collectionProp>
               <stringProp name="Assertion.test_field">Assertion.response_data</stringProp>
               <boolProp name="Assertion.assume_success">false</boolProp>
@@ -1499,7 +1579,7 @@
           <hashTree>
             <ResponseAssertion guiclass="AssertionGui" testclass="ResponseAssertion" testname="Response Assertion" enabled="true">
               <collectionProp name="Asserion.test_strings">
-                <stringProp name="570135693">&quot;id&quot;:6508,&quot;score&quot;:0.0,&quot;name&quot;:&quot;Universal 92.1 FM&quot;,&quot;responseType&quot;:&quot;LIVE&quot;,&quot;description&quot;:&quot;La Estación de Los Clásicos, México DF&quot;,&quot;band&quot;:&quot;FM&quot;,&quot;callLetters&quot;:&quot;XEFO-FM&quot;,&quot;logo&quot;:&quot;http://radioedit.iheart.com/service/img/nop()/assets/images/6508.png&quot;,&quot;freq&quot;:&quot;92.1&quot;,&quot;countries&quot;:&quot;MX&quot;</stringProp>
+                <stringProp name="-2058859279">&quot;id&quot;:6508,&quot;score&quot;:0.0,&quot;name&quot;:&quot;Universal 92.1 FM&quot;,&quot;responseType&quot;:&quot;LIVE&quot;,&quot;description&quot;:&quot;La Estación de Los Clásicos, México DF&quot;,&quot;band&quot;:&quot;FM&quot;,&quot;callLetters&quot;:&quot;XEFO-FM&quot;</stringProp>
                 <stringProp name="1592867497">&quot;streams&quot;:</stringProp>
                 <stringProp name="1492799339">&quot;isActive&quot;:true,&quot;modified&quot;</stringProp>
                 <stringProp name="1161676893">&quot;markets&quot;:[{&quot;name&quot;:&quot;MEXICOCITY-DF&quot;</stringProp>
@@ -1518,6 +1598,9 @@
                 <stringProp name="-1346298332">&quot;flv_stream&quot;:&quot;http://ice21.securenetsystems.net/UNIVAAC?type=.flv&quot;</stringProp>
                 <stringProp name="2129693924">&quot;feeds&quot;:{&quot;site_id&quot;:&quot;0&quot;},&quot;format&quot;:&quot;Prov_Grupo Radio Centro&quot;,&quot;provider&quot;:&quot;Grupo Radio Centro&quot;,&quot;rds&quot;:&quot;XEFO-FM&quot;,&quot;website&quot;:&quot;http://universal921.mx&quot;,&quot;social&quot;:{}}]}</stringProp>
                 <stringProp name="224433947">{&quot;id&quot;:100,&quot;name&quot;:&quot;Mexico&quot;</stringProp>
+                <stringProp name="-986977819">&quot;logo&quot;:</stringProp>
+                <stringProp name="-460993514">&quot;freq&quot;:&quot;92.1&quot;</stringProp>
+                <stringProp name="25949215">&quot;countries&quot;:&quot;MX&quot;</stringProp>
               </collectionProp>
               <stringProp name="Assertion.test_field">Assertion.response_data</stringProp>
               <boolProp name="Assertion.assume_success">false</boolProp>
@@ -1548,7 +1631,7 @@
           <hashTree>
             <ResponseAssertion guiclass="AssertionGui" testclass="ResponseAssertion" testname="Response Assertion" enabled="true">
               <collectionProp name="Asserion.test_strings">
-                <stringProp name="-675013774">&quot;id&quot;:6407,&quot;score&quot;:0.0,&quot;name&quot;:&quot;Immaculate Heart Radio AM1620&quot;,&quot;responseType&quot;:&quot;LIVE&quot;,&quot;description&quot;:&quot;Catholic Radio for Sacramento &quot;,&quot;band&quot;:&quot;AM&quot;,&quot;callLetters&quot;:&quot;KSMH-AM&quot;,&quot;logo&quot;:&quot;http://radioedit.iheart.com/service/img/nop()/assets/images/6407.png&quot;,&quot;freq&quot;:&quot;1620.0&quot;,&quot;countries&quot;:&quot;US&quot;</stringProp>
+                <stringProp name="-1389771616">&quot;id&quot;:6407,&quot;score&quot;:0.0,&quot;name&quot;:&quot;Immaculate Heart Radio AM1620&quot;,&quot;responseType&quot;:&quot;LIVE&quot;,&quot;description&quot;:&quot;Catholic Radio for Sacramento &quot;,&quot;band&quot;:&quot;AM&quot;,&quot;callLetters&quot;:&quot;KSMH-AM&quot;</stringProp>
                 <stringProp name="1592867497">&quot;streams&quot;:</stringProp>
                 <stringProp name="1492799339">&quot;isActive&quot;:true,&quot;modified&quot;</stringProp>
                 <stringProp name="974711917">&quot;markets&quot;:</stringProp>
@@ -1567,7 +1650,9 @@
                 <stringProp name="-1203647266">&quot;shoutcast_stream&quot;:&quot;http://ic2.christiannetcast.com/ksmh-am&quot;</stringProp>
                 <stringProp name="240420365">&quot;rtmp_stream&quot;:&quot;rtmp://wz1.christiannetcast.com:1935/ksmh-am/ksmh-am.stream&quot;</stringProp>
                 <stringProp name="596270673">&quot;feeds&quot;:{},&quot;format&quot;:&quot;Prov_Other&quot;,&quot;provider&quot;:&quot;Other&quot;,&quot;rds&quot;:&quot;KSMH-AM Sacramento&quot;,&quot;social&quot;:{}}]}</stringProp>
-                <stringProp name="0"></stringProp>
+                <stringProp name="-986977819">&quot;logo&quot;:</stringProp>
+                <stringProp name="974963629">&quot;freq&quot;:&quot;1620.0&quot;</stringProp>
+                <stringProp name="25956748">&quot;countries&quot;:&quot;US&quot;</stringProp>
               </collectionProp>
               <stringProp name="Assertion.test_field">Assertion.response_data</stringProp>
               <boolProp name="Assertion.assume_success">false</boolProp>
