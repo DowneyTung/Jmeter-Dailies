@@ -721,7 +721,7 @@
                 <stringProp name="-2023054164">&quot;pls_stream&quot;:&quot;http://playerservices.streamtheworld.com/pls/KPWRAAC.pls&quot;</stringProp>
                 <stringProp name="-2046412735">&quot;shoutcast_stream&quot;:&quot;&quot;</stringProp>
                 <stringProp name="305897961">&quot;flv_stream&quot;:&quot;&quot;</stringProp>
-                <stringProp name="782597235">&quot;feeds&quot;:{},&quot;format&quot;:&quot;Prov_Emmis&quot;,&quot;provider&quot;:&quot;Emmis&quot;,&quot;rds&quot;:&quot;POWER106&quot;,&quot;website&quot;:&quot;www.power106.com&quot;,&quot;social&quot;:{}}]}</stringProp>
+                <stringProp name="-1849985205">&quot;feeds&quot;:</stringProp>
                 <stringProp name="1970445570">&quot;name&quot;:&quot;Hip Hop and R&amp;B&quot;</stringProp>
                 <stringProp name="-1011160118">&quot;sortIndex&quot;:</stringProp>
                 <stringProp name="-1989650042">&quot;primary&quot;:true</stringProp>
@@ -729,6 +729,11 @@
                 <stringProp name="-1636570895">&quot;freq&quot;:&quot;105.9&quot;</stringProp>
                 <stringProp name="25956748">&quot;countries&quot;:&quot;US&quot;</stringProp>
                 <stringProp name="-1238929916">&quot;cume&quot;:</stringProp>
+                <stringProp name="-597122888">&quot;format&quot;:&quot;Prov_Emmis&quot;</stringProp>
+                <stringProp name="62222858">&quot;provider&quot;:&quot;Emmis&quot;</stringProp>
+                <stringProp name="1681099397">&quot;rds&quot;:&quot;POWER106&quot;</stringProp>
+                <stringProp name="721164917">&quot;website&quot;:&quot;www.power106.com&quot;</stringProp>
+                <stringProp name="-101272921">&quot;social&quot;:</stringProp>
               </collectionProp>
               <stringProp name="Assertion.test_field">Assertion.response_data</stringProp>
               <boolProp name="Assertion.assume_success">false</boolProp>
