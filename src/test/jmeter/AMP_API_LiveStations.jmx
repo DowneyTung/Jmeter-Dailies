@@ -1140,7 +1140,7 @@
                 <stringProp name="1592867497">&quot;streams&quot;:</stringProp>
                 <stringProp name="1492799339">&quot;isActive&quot;:true,&quot;modified&quot;</stringProp>
                 <stringProp name="-1776620384">&quot;markets&quot;:[{&quot;name&quot;:&quot;DIGITAL-NAT&quot;</stringProp>
-                <stringProp name="-503990071">&quot;genres&quot;:[{&quot;id&quot;:15,&quot;name&quot;:&quot;Sports&quot;</stringProp>
+                <stringProp name="498095562">&quot;genres&quot;:</stringProp>
                 <stringProp name="-252832832">&quot;marketId&quot;:&quot;575&quot;</stringProp>
                 <stringProp name="-1011160118">&quot;sortIndex&quot;:</stringProp>
                 <stringProp name="-543116473">&quot;city&quot;:&quot;Digital&quot;</stringProp>
@@ -1159,7 +1159,8 @@
                 <stringProp name="-986977819">&quot;logo&quot;:</stringProp>
                 <stringProp name="25956748">&quot;countries&quot;:&quot;US&quot;</stringProp>
                 <stringProp name="1760443618">&quot;freq&quot;:&quot;0&quot;</stringProp>
-                <stringProp name="0"></stringProp>
+                <stringProp name="573835206">&quot;name&quot;:&quot;Sports&quot;</stringProp>
+                <stringProp name="34624981">&quot;id&quot;:</stringProp>
               </collectionProp>
               <stringProp name="Assertion.test_field">Assertion.response_data</stringProp>
               <boolProp name="Assertion.assume_success">false</boolProp>
