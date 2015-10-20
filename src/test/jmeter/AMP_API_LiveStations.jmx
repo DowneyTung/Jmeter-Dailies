@@ -492,15 +492,17 @@
                 <stringProp name="1592867497">&quot;streams&quot;:</stringProp>
                 <stringProp name="1492799339">&quot;isActive&quot;:true,&quot;modified&quot;</stringProp>
                 <stringProp name="-796135147">&quot;markets&quot;:[{&quot;name&quot;:&quot;HOUSTON-TX&quot;</stringProp>
-                <stringProp name="-1220216502">&quot;genres&quot;:[{&quot;id&quot;:9,&quot;name&quot;:&quot;News &amp; Talk&quot;</stringProp>
+                <stringProp name="498095562">&quot;genres&quot;:</stringProp>
                 <stringProp name="1691044968">&quot;shoutcast_stream&quot;:&quot;http://stream1.houstonpublicmedia.org:8080/hpm_news_64&quot;</stringProp>
                 <stringProp name="-433556941">&quot;rtmp_stream&quot;:&quot;rtmp://stream2.houstonpublicmedia.org:1935/live/KUHF_64.stream&quot;</stringProp>
-                <stringProp name="1797234025">{&quot;id&quot;:93,&quot;name&quot;:&quot;Public Radio&quot;</stringProp>
+                <stringProp name="-1085129809">&quot;id&quot;:93</stringProp>
                 <stringProp name="-1244194802">&quot;feeds&quot;:{&quot;site_id&quot;:&quot;0&quot;},&quot;format&quot;:&quot;Prov_Public&quot;,&quot;provider&quot;:&quot;Public&quot;,&quot;website&quot;:&quot;www.houstonpublicmedia.org/news887&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;HPMNews887&quot;,&quot;facebook&quot;:&quot;HoustonNews887&quot;}}]}</stringProp>
                 <stringProp name="-986977819">&quot;logo&quot;:</stringProp>
                 <stringProp name="-461738103">&quot;freq&quot;:&quot;88.7&quot;</stringProp>
                 <stringProp name="25956748">&quot;countries&quot;:&quot;US&quot;</stringProp>
-                <stringProp name="0"></stringProp>
+                <stringProp name="245180076">&quot;name&quot;:&quot;News &amp; Talk&quot;</stringProp>
+                <stringProp name="1073374468">&quot;id&quot;:9</stringProp>
+                <stringProp name="1025594945">&quot;name&quot;:&quot;Public Radio&quot;</stringProp>
               </collectionProp>
               <stringProp name="Assertion.test_field">Assertion.response_data</stringProp>
               <boolProp name="Assertion.assume_success">false</boolProp>
@@ -1195,7 +1197,7 @@
                 <stringProp name="1592867497">&quot;streams&quot;:</stringProp>
                 <stringProp name="1492799339">&quot;isActive&quot;:true,&quot;modified&quot;</stringProp>
                 <stringProp name="974711917">&quot;markets&quot;:</stringProp>
-                <stringProp name="-1220216502">&quot;genres&quot;:[{&quot;id&quot;:9,&quot;name&quot;:&quot;News &amp; Talk&quot;</stringProp>
+                <stringProp name="498095562">&quot;genres&quot;:</stringProp>
                 <stringProp name="1318417523">&quot;name&quot;:&quot;DIGITAL-NAT&quot;</stringProp>
                 <stringProp name="-252832832">&quot;marketId&quot;:&quot;575&quot;</stringProp>
                 <stringProp name="-1011160118">&quot;sortIndex&quot;:</stringProp>
@@ -1210,11 +1212,13 @@
                 <stringProp name="1743968912">&quot;rtmp_stream&quot;:</stringProp>
                 <stringProp name="146609730">&quot;pls_stream&quot;:</stringProp>
                 <stringProp name="64840686">&quot;feeds&quot;:{&quot;site_id&quot;:&quot;0&quot;},&quot;format&quot;:&quot;Prov_Public&quot;,&quot;provider&quot;:&quot;Public&quot;,&quot;rds&quot;:&quot;This American Life&quot;,&quot;website&quot;:&quot;http://www.thisamericanlife.org/&quot;,&quot;social&quot;:{}}]}</stringProp>
-                <stringProp name="1797234025">{&quot;id&quot;:93,&quot;name&quot;:&quot;Public Radio&quot;</stringProp>
+                <stringProp name="-1085129809">&quot;id&quot;:93</stringProp>
                 <stringProp name="-986977819">&quot;logo&quot;:</stringProp>
                 <stringProp name="25956748">&quot;countries&quot;:&quot;US&quot;</stringProp>
                 <stringProp name="-430784672">&quot;freq&quot;:&quot;0.0&quot;</stringProp>
-                <stringProp name="0"></stringProp>
+                <stringProp name="245180076">&quot;name&quot;:&quot;News &amp; Talk&quot;</stringProp>
+                <stringProp name="1073374468">&quot;id&quot;:9</stringProp>
+                <stringProp name="1025594945">&quot;name&quot;:&quot;Public Radio&quot;</stringProp>
               </collectionProp>
               <stringProp name="Assertion.test_field">Assertion.response_data</stringProp>
               <boolProp name="Assertion.assume_success">false</boolProp>
