@@ -447,9 +447,8 @@
                 <stringProp name="74941194">&quot;countryId&quot;:1</stringProp>
                 <stringProp name="-1989650042">&quot;primary&quot;:true</stringProp>
                 <stringProp name="-1096637010">&quot;origin&quot;:true</stringProp>
-                <stringProp name="-249690028">&quot;shoutcast_stream&quot;:&quot;http://icy1.abacast.com/federatedmedia-wmeefmihrt-48&quot;</stringProp>
-                <stringProp name="-2000788230">&quot;rtmp_stream&quot;:&quot;rtmp://out1.atl.fla.abacast.com/federatedmedia/federatedmedia-wmeefmihrt-48&quot;</stringProp>
-                <stringProp name="1938987999">&quot;feeds&quot;:{},&quot;format&quot;:&quot;Prov_Federated&quot;,&quot;provider&quot;:&quot;Federated&quot;,&quot;rds&quot;:&quot;WMEE-FM Fort Wayne&quot;,&quot;website&quot;:&quot;wmee.com&quot;,&quot;social&quot;:{}}]}</stringProp>
+                <stringProp name="692111333">&quot;shoutcast_stream&quot;:&quot;http://stream.abacast.net/direct/federatedmedia-wmeefmaacihrt-ibc2?source=iheartother&quot;</stringProp>
+                <stringProp name="1743968912">&quot;rtmp_stream&quot;:</stringProp>
                 <stringProp name="-1258380825">&quot;name&quot;:&quot;Top 40 &amp; Pop&quot;</stringProp>
                 <stringProp name="-1011160118">&quot;sortIndex&quot;:</stringProp>
                 <stringProp name="-1989650042">&quot;primary&quot;:true</stringProp>
@@ -457,7 +456,12 @@
                 <stringProp name="-1230587517">,&quot;freq&quot;:&quot;97.3&quot;</stringProp>
                 <stringProp name="25956748">&quot;countries&quot;:&quot;US&quot;</stringProp>
                 <stringProp name="-1238929916">&quot;cume&quot;:</stringProp>
-                <stringProp name="0"></stringProp>
+                <stringProp name="502129218">&quot;feeds&quot;:{&quot;site_id&quot;:&quot;0&quot;}</stringProp>
+                <stringProp name="450178947">&quot;format&quot;:&quot;Prov_Federated&quot;</stringProp>
+                <stringProp name="1104480213">&quot;provider&quot;:&quot;Federated&quot;</stringProp>
+                <stringProp name="529626276">&quot;rds&quot;:&quot;WMEE-FM Fort Wayne&quot;</stringProp>
+                <stringProp name="1438398696">&quot;website&quot;:&quot;wmee.com&quot;</stringProp>
+                <stringProp name="-1302209516">&quot;social&quot;:{}}]}</stringProp>
               </collectionProp>
               <stringProp name="Assertion.test_field">Assertion.response_data</stringProp>
               <boolProp name="Assertion.assume_success">false</boolProp>
@@ -1115,7 +1119,7 @@
             </ResponseAssertion>
             <hashTree/>
           </hashTree>
-          <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="talkSPORT&#x9;" enabled="true">
+          <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="talkSPORT (Was disabled)" enabled="false">
             <elementProp name="HTTPsampler.Arguments" elementType="Arguments" guiclass="HTTPArgumentsPanel" testclass="Arguments" testname="User Defined Variables" enabled="true">
               <collectionProp name="Arguments.arguments"/>
             </elementProp>
