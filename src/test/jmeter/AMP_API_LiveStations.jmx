@@ -377,7 +377,7 @@
                 <stringProp name="1464772175">&quot;markets&quot;:[{&quot;name&quot;:&quot;NEWYORK-NY&quot;</stringProp>
                 <stringProp name="498095562">&quot;genres&quot;:</stringProp>
                 <stringProp name="-252953794">&quot;marketId&quot;:&quot;159&quot;</stringProp>
-                <stringProp name="-1062262933">&quot;sortIndex&quot;:12</stringProp>
+                <stringProp name="-1011160118">&quot;sortIndex&quot;:</stringProp>
                 <stringProp name="267995382">&quot;city&quot;:&quot;New York&quot;</stringProp>
                 <stringProp name="982160102">&quot;stateId&quot;:37</stringProp>
                 <stringProp name="-338735734">&quot;stateAbbreviation&quot;:&quot;NY&quot;</stringProp>
@@ -546,7 +546,7 @@
                 <stringProp name="43038449">&quot;rtmp_stream&quot;:&quot;rtmp://rtmp.opb.org/live/opbmusicheart.stream&quot;</stringProp>
                 <stringProp name="-873225797">&quot;name&quot;:&quot;PORTLAND-OR&quot;</stringProp>
                 <stringProp name="-252950167">&quot;marketId&quot;:&quot;192&quot;</stringProp>
-                <stringProp name="1367537449">&quot;sortIndex&quot;:1000</stringProp>
+                <stringProp name="-1011160118">&quot;sortIndex&quot;:</stringProp>
                 <stringProp name="-819256039">&quot;city&quot;:&quot;Portland&quot;</stringProp>
                 <stringProp name="982160129">&quot;stateId&quot;:43</stringProp>
                 <stringProp name="-338734990">&quot;stateAbbreviation&quot;:&quot;OR&quot;</stringProp>
