@@ -88,7 +88,7 @@
                 <stringProp name="458063179">&quot;logo&quot;:&quot;http://radioedit.iheart.com/service/img/nop()/assets/images/1469.png&quot;,&quot;freq&quot;:&quot;100.3&quot;,&quot;cume&quot;:4461800,&quot;countries&quot;:&quot;US&quot;</stringProp>
                 <stringProp name="1592867497">&quot;streams&quot;:</stringProp>
                 <stringProp name="2091922932">&quot;secure_rtmp_stream&quot;:&quot;rtmp://cp19972.live.edgefcs.net/live/Nyo_NY_WHTZ-FM_OR@152585&quot;</stringProp>
-                <stringProp name="-437393886">&quot;hls_stream&quot;:&quot;http://playlists.ihrhls.com/c5/1469/playlist.m3u8&quot;</stringProp>
+                <stringProp name="-507431192">&quot;hls_stream&quot;:&quot;http://c5.prod.playlists.ihrhls.com/1469/playlist.m3u8&quot;</stringProp>
                 <stringProp name="-1219970641">&quot;esid&quot;:&quot;1571&quot;,&quot;feeds&quot;:{&quot;site_id&quot;:&quot;1793&quot;,&quot;feed&quot;:&quot;whtz-fm.app.clearchannel.com&quot;},&quot;format&quot;:&quot;CHRPOP&quot;,&quot;provider&quot;:&quot;Clear Channel&quot;,&quot;rds&quot;:&quot;WHTZ-FM New York&quot;,&quot;website&quot;:&quot;www.z100.com&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;Z100NewYork&quot;,&quot;instagram&quot;:&quot;z100newyork&quot;,&quot;facebook&quot;:&quot;Z100NewYork&quot;},&quot;adswizz&quot;:{&quot;publisher_id&quot;:&quot;8651&quot;}</stringProp>
                 <stringProp name="-1258380825">&quot;name&quot;:&quot;Top 40 &amp; Pop&quot;</stringProp>
                 <stringProp name="-1011160118">&quot;sortIndex&quot;:</stringProp>
@@ -149,7 +149,7 @@
                 <stringProp name="-1989650042">&quot;primary&quot;:true</stringProp>
                 <stringProp name="-1327979659">&quot;secure_rtmp_stream&quot;:&quot;rtmp://cp19974.live.edgefcs.net/live/Nyo_NY_WLTW-FM_OR@152587&quot;</stringProp>
                 <stringProp name="-1733577703">&quot;shoutcast_stream&quot;:&quot;http://wltw-fm.akacast.akamaistream.net/7/291/19974/v1/auth.akacast.akamaistream.net/wltw-fm&quot;</stringProp>
-                <stringProp name="1936984165">&quot;hls_stream&quot;:&quot;http://playlists.ihrhls.com/c5/1477/playlist.m3u8&quot;</stringProp>
+                <stringProp name="1866946859">&quot;hls_stream&quot;:&quot;http://c5.prod.playlists.ihrhls.com/1477/playlist.m3u8&quot;</stringProp>
                 <stringProp name="-2096463608">&quot;adswizz&quot;:{&quot;publisher_id&quot;:&quot;852</stringProp>
                 <stringProp name="-282241912">&quot;social&quot;:{&quot;twitter&quot;:&quot;1067LiteFM&quot;</stringProp>
                 <stringProp name="10835149">&quot;format&quot;:&quot;ACMAINSTREAM&quot;,&quot;provider&quot;:&quot;Clear Channel&quot;,&quot;rds&quot;:&quot;WLTW-FM New York&quot;,&quot;website&quot;:&quot;www.1067litefm.com&quot;</stringProp>
