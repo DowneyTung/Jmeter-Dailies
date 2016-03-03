@@ -135,7 +135,6 @@
                 <stringProp name="-967860689">&quot;isActive&quot;:true,&quot;modified&quot;:</stringProp>
                 <stringProp name="1464772175">&quot;markets&quot;:[{&quot;name&quot;:&quot;NEWYORK-NY&quot;</stringProp>
                 <stringProp name="-911684435">&quot;genres&quot;:[{&quot;id&quot;:13</stringProp>
-                <stringProp name="980092557">&quot;adswizzZones&quot;:{&quot;audio-exchange-zone&quot;:&quot;39794&quot;,&quot;audio-fill-zone&quot;:&quot;39793&quot;,&quot;display-zone&quot;:&quot;39797&quot;,&quot;audio-zone&quot;:&quot;39795&quot;,&quot;optimized-audio-fill-zone&quot;:&quot;39796&quot;}</stringProp>
                 <stringProp name="2045839193">&quot;callLetterAlias&quot;:&quot;WLTW-FM&quot;,&quot;callLetterRoyalty&quot;:&quot;WLTW-FM&quot;}]}</stringProp>
                 <stringProp name="-252953794">&quot;marketId&quot;:&quot;159&quot;</stringProp>
                 <stringProp name="-1011160118">&quot;sortIndex&quot;:</stringProp>
@@ -161,10 +160,12 @@
                 <stringProp name="-496077916">&quot;name&quot;:&quot;Soft Rock&quot;</stringProp>
                 <stringProp name="-1563053013">&quot;primary&quot;:false</stringProp>
                 <stringProp name="-1158300157">&quot;esid&quot;:&quot;1573&quot;</stringProp>
-                <stringProp name="0"></stringProp>
-                <stringProp name="0"></stringProp>
-                <stringProp name="0"></stringProp>
-                <stringProp name="0"></stringProp>
+                <stringProp name="320640223">&quot;adswizzZones&quot;:</stringProp>
+                <stringProp name="1699834852">&quot;audio-fill-zone&quot;:&quot;39793&quot;</stringProp>
+                <stringProp name="800152666">&quot;audio-zone&quot;:&quot;39795&quot;</stringProp>
+                <stringProp name="-378211417">&quot;optimized-audio-fill-zone&quot;:&quot;39796&quot;</stringProp>
+                <stringProp name="1298401315">&quot;audio-exchange-zone&quot;:&quot;39794&quot;</stringProp>
+                <stringProp name="-779477756">&quot;display-zone&quot;:&quot;39797&quot;</stringProp>
               </collectionProp>
               <stringProp name="Assertion.test_field">Assertion.response_data</stringProp>
               <boolProp name="Assertion.assume_success">false</boolProp>
