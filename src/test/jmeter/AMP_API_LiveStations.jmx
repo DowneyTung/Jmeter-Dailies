@@ -1673,12 +1673,18 @@
                 <stringProp name="74941194">&quot;countryId&quot;:1</stringProp>
                 <stringProp name="-1989650042">&quot;primary&quot;:true</stringProp>
                 <stringProp name="-1096637010">&quot;origin&quot;:true</stringProp>
-                <stringProp name="-1203647266">&quot;shoutcast_stream&quot;:&quot;http://ic2.christiannetcast.com/ksmh-am&quot;</stringProp>
-                <stringProp name="240420365">&quot;rtmp_stream&quot;:&quot;rtmp://wz1.christiannetcast.com:1935/ksmh-am/ksmh-am.stream&quot;</stringProp>
-                <stringProp name="596270673">&quot;feeds&quot;:{},&quot;format&quot;:&quot;Prov_Other&quot;,&quot;provider&quot;:&quot;Other&quot;,&quot;rds&quot;:&quot;KSMH-AM Sacramento&quot;,&quot;social&quot;:{}}]}</stringProp>
+                <stringProp name="1743968912">&quot;rtmp_stream&quot;:</stringProp>
                 <stringProp name="-986977819">&quot;logo&quot;:</stringProp>
                 <stringProp name="974963629">&quot;freq&quot;:&quot;1620.0&quot;</stringProp>
                 <stringProp name="25956748">&quot;countries&quot;:&quot;US&quot;</stringProp>
+                <stringProp name="1662911274">&quot;shoutcast_stream&quot;:&quot;http://ihradio.mp3.miisolutions.net:80/ksmh/ksmh-am_iheart&quot;</stringProp>
+                <stringProp name="502129218">&quot;feeds&quot;:{&quot;site_id&quot;:&quot;0&quot;}</stringProp>
+                <stringProp name="-304519561">&quot;format&quot;:&quot;Prov_Other&quot;</stringProp>
+                <stringProp name="354826185">&quot;provider&quot;:&quot;Other&quot;</stringProp>
+                <stringProp name="532082176">&quot;rds&quot;:&quot;KSMH-AM Sacramento&quot;</stringProp>
+                <stringProp name="-101272921">&quot;social&quot;:</stringProp>
+                <stringProp name="0"></stringProp>
+                <stringProp name="0"></stringProp>
               </collectionProp>
               <stringProp name="Assertion.test_field">Assertion.response_data</stringProp>
               <boolProp name="Assertion.assume_success">false</boolProp>
