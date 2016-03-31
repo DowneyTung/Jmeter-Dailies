@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="84" lt="84" ts="1459447080449" s="true" lb="DL scheduler_android" rc="200" rm="OK" tn="DL Sceduler 2-1" dt="text" by="676"/>
+<httpSample t="395" lt="395" ts="1459447080535" s="true" lb="DL scheduler_blackberry" rc="200" rm="OK" tn="DL Sceduler 2-1" dt="text" by="677"/>
+<httpSample t="40" lt="40" ts="1459447080931" s="true" lb="DL scheduler_iphone" rc="200" rm="OK" tn="DL Sceduler 2-1" dt="text" by="676"/>
+<httpSample t="546" lt="546" ts="1459447080448" s="true" lb="Prod env" rc="200" rm="OK" tn="Radio Edit(DL Scheduler) 1-1" dt="text" by="2690">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="35" lt="35" ts="1459447080972" s="true" lb="DL scheduler_windowsphone8" rc="200" rm="OK" tn="DL Sceduler 2-1" dt="text" by="3029"/>
+<httpSample t="248" lt="248" ts="1459447081008" s="true" lb="DL scheduler_webapp" rc="200" rm="OK" tn="DL Sceduler 2-1" dt="text" by="677"/>
+
+</testResults>

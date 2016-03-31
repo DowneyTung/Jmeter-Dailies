@@ -1,0 +1,461 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=US-ASCII">
+<title>Load Test Results</title>
+<style type="text/css">
+				body {
+					font:normal 68% verdana,arial,helvetica;
+					color:#000000;
+				}
+				table tr td, table tr th {
+					font-size: 68%;
+				}
+				table.details tr th{
+					font-weight: bold;
+					text-align:left;
+					background:#a6caf0;
+					white-space: nowrap;
+				}
+				table.details tr td{
+					background:#eeeee0;
+					white-space: nowrap;
+				}
+				h1 {
+					margin: 0px 0px 5px; font: 165% verdana,arial,helvetica
+				}
+				h2 {
+					margin-top: 1em; margin-bottom: 0.5em; font: bold 125% verdana,arial,helvetica
+				}
+				h3 {
+					margin-bottom: 0.5em; font: bold 115% verdana,arial,helvetica
+				}
+				.Failure {
+					font-weight:bold; color:red;
+				}
+				
+	
+				img
+				{
+				  border-width: 0px;
+				}
+				
+				.expand_link
+				{
+				   position=absolute;
+				   right: 0px;
+				   width: 27px;
+				   top: 1px;
+				   height: 27px;
+				}
+				
+				.page_details
+				{
+				   display: none;
+				}
+                                
+                                .page_details_expanded
+                                {
+                                    display: block;
+                                    display/* hide this definition from  IE5/6 */: table-row;
+                                }
+
+
+			</style>
+<script language="JavaScript">
+                           function expand(details_id)
+			   {
+			      
+			      document.getElementById(details_id).className = "page_details_expanded";
+			   }
+			   
+			   function collapse(details_id)
+			   {
+			      
+			      document.getElementById(details_id).className = "page_details";
+			   }
+			   
+			   function change(details_id)
+			   {
+			      if(document.getElementById(details_id+"_image").src.match("expand"))
+			      {
+			         document.getElementById(details_id+"_image").src = "collapse.jpg";
+			         expand(details_id);
+			      }
+			      else
+			      {
+			         document.getElementById(details_id+"_image").src = "expand.jpg";
+			         collapse(details_id);
+			      } 
+                           }
+			</script>
+</head>
+<body>
+<h1>Load Test Results</h1>
+<table width="100%">
+<tr>
+<td align="left"></td><td align="right">Designed for use with <a href="http://jakarta.apache.org/jmeter">JMeter</a> and <a href="http://ant.apache.org">Ant</a>.</td>
+</tr>
+</table>
+<hr size="1">
+<h2>Summary</h2>
+<table width="95%" cellspacing="2" cellpadding="5" border="0" class="details">
+<tr valign="top">
+<th>Tests</th><th>Failures</th><th>Success Rate</th><th>Average Time</th><th>Min Time</th><th>Max Time</th>
+</tr>
+<tr valign="top" class="">
+<td>19</td><td>0</td><td>100.00%</td><td>121 ms</td><td>22 ms</td><td>394 ms</td>
+</tr>
+</table>
+<hr align="left" width="95%" size="1">
+<h2>Pages</h2>
+<table width="95%" cellspacing="2" cellpadding="5" border="0" class="details">
+<tr valign="top">
+<th>URL</th><th>Tests</th><th>Failures</th><th>Success Rate</th><th>Average Time</th><th>Min Time</th><th>Max Time</th><th></th>
+</tr>
+<tr valign="top" class="">
+<td>Genre(qac)</td><td>1</td><td>0</td><td>100.00%</td><td>213 ms</td><td>213 ms</td><td>213 ms</td><td align="center"><a href="javascript:change('page_details_1')"><img alt="expand/collapse" src="expand.jpg" id="page_details_1_image"></a></td>
+</tr>
+<tr class="page_details" id="page_details_1">
+<td bgcolor="#FF0000" colspan="8">
+<div align="center">
+<b>Details for Page "Genre(qac)"</b>
+<table width="95%" cellspacing="0" cellpadding="0" border="1" bordercolor="#000000">
+<tr>
+<th>Thread</th><th>Iteration</th><th>Time (milliseconds)</th><th>Bytes</th><th>Success</th>
+</tr>
+<tr>
+<td>Genre 2-1</td><td>1</td><td align="right">213</td><td align="right">321</td><td align="center">true</td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+<tr valign="top" class="">
+<td>HTTP Request</td><td>1</td><td>0</td><td>100.00%</td><td>334 ms</td><td>334 ms</td><td>334 ms</td><td align="center"><a href="javascript:change('page_details_2')"><img alt="expand/collapse" src="expand.jpg" id="page_details_2_image"></a></td>
+</tr>
+<tr class="page_details" id="page_details_2">
+<td bgcolor="#FF0000" colspan="8">
+<div align="center">
+<b>Details for Page "HTTP Request"</b>
+<table width="95%" cellspacing="0" cellpadding="0" border="1" bordercolor="#000000">
+<tr>
+<th>Thread</th><th>Iteration</th><th>Time (milliseconds)</th><th>Bytes</th><th>Success</th>
+</tr>
+<tr>
+<td>Sample test 3-1</td><td>1</td><td align="right">334</td><td align="right">21642</td><td align="center">true</td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+<tr valign="top" class="">
+<td>perfectFor-amazon-dev</td><td>1</td><td>0</td><td>100.00%</td><td>335 ms</td><td>335 ms</td><td>335 ms</td><td align="center"><a href="javascript:change('page_details_3')"><img alt="expand/collapse" src="expand.jpg" id="page_details_3_image"></a></td>
+</tr>
+<tr class="page_details" id="page_details_3">
+<td bgcolor="#FF0000" colspan="8">
+<div align="center">
+<b>Details for Page "perfectFor-amazon-dev"</b>
+<table width="95%" cellspacing="0" cellpadding="0" border="1" bordercolor="#000000">
+<tr>
+<th>Thread</th><th>Iteration</th><th>Time (milliseconds)</th><th>Bytes</th><th>Success</th>
+</tr>
+<tr>
+<td>Perfect For 1-1</td><td>1</td><td align="right">335</td><td align="right">21642</td><td align="center">true</td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+<tr valign="top" class="">
+<td>PerfectFor-amazon-Iris</td><td>1</td><td>0</td><td>100.00%</td><td>46 ms</td><td>46 ms</td><td>46 ms</td><td align="center"><a href="javascript:change('page_details_4')"><img alt="expand/collapse" src="expand.jpg" id="page_details_4_image"></a></td>
+</tr>
+<tr class="page_details" id="page_details_4">
+<td bgcolor="#FF0000" colspan="8">
+<div align="center">
+<b>Details for Page "PerfectFor-amazon-Iris"</b>
+<table width="95%" cellspacing="0" cellpadding="0" border="1" bordercolor="#000000">
+<tr>
+<th>Thread</th><th>Iteration</th><th>Time (milliseconds)</th><th>Bytes</th><th>Success</th>
+</tr>
+<tr>
+<td>Perfect For 1-1</td><td>1</td><td align="right">46</td><td align="right">18973</td><td align="center">true</td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+<tr valign="top" class="">
+<td>perfectFor-Android</td><td>1</td><td>0</td><td>100.00%</td><td>43 ms</td><td>43 ms</td><td>43 ms</td><td align="center"><a href="javascript:change('page_details_5')"><img alt="expand/collapse" src="expand.jpg" id="page_details_5_image"></a></td>
+</tr>
+<tr class="page_details" id="page_details_5">
+<td bgcolor="#FF0000" colspan="8">
+<div align="center">
+<b>Details for Page "perfectFor-Android"</b>
+<table width="95%" cellspacing="0" cellpadding="0" border="1" bordercolor="#000000">
+<tr>
+<th>Thread</th><th>Iteration</th><th>Time (milliseconds)</th><th>Bytes</th><th>Success</th>
+</tr>
+<tr>
+<td>Perfect For 1-1</td><td>1</td><td align="right">43</td><td align="right">18973</td><td align="center">true</td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+<tr valign="top" class="">
+<td>perfectFor-Blackberry</td><td>1</td><td>0</td><td>100.00%</td><td>29 ms</td><td>29 ms</td><td>29 ms</td><td align="center"><a href="javascript:change('page_details_6')"><img alt="expand/collapse" src="expand.jpg" id="page_details_6_image"></a></td>
+</tr>
+<tr class="page_details" id="page_details_6">
+<td bgcolor="#FF0000" colspan="8">
+<div align="center">
+<b>Details for Page "perfectFor-Blackberry"</b>
+<table width="95%" cellspacing="0" cellpadding="0" border="1" bordercolor="#000000">
+<tr>
+<th>Thread</th><th>Iteration</th><th>Time (milliseconds)</th><th>Bytes</th><th>Success</th>
+</tr>
+<tr>
+<td>Perfect For 1-1</td><td>1</td><td align="right">29</td><td align="right">18972</td><td align="center">true</td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+<tr valign="top" class="">
+<td>perfectFor-iPad</td><td>1</td><td>0</td><td>100.00%</td><td>86 ms</td><td>86 ms</td><td>86 ms</td><td align="center"><a href="javascript:change('page_details_7')"><img alt="expand/collapse" src="expand.jpg" id="page_details_7_image"></a></td>
+</tr>
+<tr class="page_details" id="page_details_7">
+<td bgcolor="#FF0000" colspan="8">
+<div align="center">
+<b>Details for Page "perfectFor-iPad"</b>
+<table width="95%" cellspacing="0" cellpadding="0" border="1" bordercolor="#000000">
+<tr>
+<th>Thread</th><th>Iteration</th><th>Time (milliseconds)</th><th>Bytes</th><th>Success</th>
+</tr>
+<tr>
+<td>Perfect For 1-1</td><td>1</td><td align="right">86</td><td align="right">18972</td><td align="center">true</td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+<tr valign="top" class="">
+<td>perfectFor-iPhone</td><td>1</td><td>0</td><td>100.00%</td><td>29 ms</td><td>29 ms</td><td>29 ms</td><td align="center"><a href="javascript:change('page_details_8')"><img alt="expand/collapse" src="expand.jpg" id="page_details_8_image"></a></td>
+</tr>
+<tr class="page_details" id="page_details_8">
+<td bgcolor="#FF0000" colspan="8">
+<div align="center">
+<b>Details for Page "perfectFor-iPhone"</b>
+<table width="95%" cellspacing="0" cellpadding="0" border="1" bordercolor="#000000">
+<tr>
+<th>Thread</th><th>Iteration</th><th>Time (milliseconds)</th><th>Bytes</th><th>Success</th>
+</tr>
+<tr>
+<td>Perfect For 1-1</td><td>1</td><td align="right">29</td><td align="right">18972</td><td align="center">true</td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+<tr valign="top" class="">
+<td>Genre(prod)</td><td>1</td><td>0</td><td>100.00%</td><td>394 ms</td><td>394 ms</td><td>394 ms</td><td align="center"><a href="javascript:change('page_details_9')"><img alt="expand/collapse" src="expand.jpg" id="page_details_9_image"></a></td>
+</tr>
+<tr class="page_details" id="page_details_9">
+<td bgcolor="#FF0000" colspan="8">
+<div align="center">
+<b>Details for Page "Genre(prod)"</b>
+<table width="95%" cellspacing="0" cellpadding="0" border="1" bordercolor="#000000">
+<tr>
+<th>Thread</th><th>Iteration</th><th>Time (milliseconds)</th><th>Bytes</th><th>Success</th>
+</tr>
+<tr>
+<td>Genre 2-1</td><td>1</td><td align="right">394</td><td align="right">22511</td><td align="center">true</td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+<tr valign="top" class="">
+<td>Radioedit_genre metaqac)</td><td>1</td><td>0</td><td>100.00%</td><td>29 ms</td><td>29 ms</td><td>29 ms</td><td align="center"><a href="javascript:change('page_details_10')"><img alt="expand/collapse" src="expand.jpg" id="page_details_10_image"></a></td>
+</tr>
+<tr class="page_details" id="page_details_10">
+<td bgcolor="#FF0000" colspan="8">
+<div align="center">
+<b>Details for Page "Radioedit_genre metaqac)"</b>
+<table width="95%" cellspacing="0" cellpadding="0" border="1" bordercolor="#000000">
+<tr>
+<th>Thread</th><th>Iteration</th><th>Time (milliseconds)</th><th>Bytes</th><th>Success</th>
+</tr>
+<tr>
+<td>Genre 2-1</td><td>1</td><td align="right">29</td><td align="right">335</td><td align="center">true</td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+<tr valign="top" class="">
+<td>perfectFor-logitech</td><td>1</td><td>0</td><td>100.00%</td><td>70 ms</td><td>70 ms</td><td>70 ms</td><td align="center"><a href="javascript:change('page_details_11')"><img alt="expand/collapse" src="expand.jpg" id="page_details_11_image"></a></td>
+</tr>
+<tr class="page_details" id="page_details_11">
+<td bgcolor="#FF0000" colspan="8">
+<div align="center">
+<b>Details for Page "perfectFor-logitech"</b>
+<table width="95%" cellspacing="0" cellpadding="0" border="1" bordercolor="#000000">
+<tr>
+<th>Thread</th><th>Iteration</th><th>Time (milliseconds)</th><th>Bytes</th><th>Success</th>
+</tr>
+<tr>
+<td>Perfect For 1-1</td><td>1</td><td align="right">70</td><td align="right">18972</td><td align="center">true</td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+<tr valign="top" class="">
+<td>Radioedit-genre meta(prod)</td><td>1</td><td>0</td><td>100.00%</td><td>22 ms</td><td>22 ms</td><td>22 ms</td><td align="center"><a href="javascript:change('page_details_12')"><img alt="expand/collapse" src="expand.jpg" id="page_details_12_image"></a></td>
+</tr>
+<tr class="page_details" id="page_details_12">
+<td bgcolor="#FF0000" colspan="8">
+<div align="center">
+<b>Details for Page "Radioedit-genre meta(prod)"</b>
+<table width="95%" cellspacing="0" cellpadding="0" border="1" bordercolor="#000000">
+<tr>
+<th>Thread</th><th>Iteration</th><th>Time (milliseconds)</th><th>Bytes</th><th>Success</th>
+</tr>
+<tr>
+<td>Genre 2-1</td><td>1</td><td align="right">22</td><td align="right">478</td><td align="center">true</td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+<tr valign="top" class="">
+<td>radioedit_dlcontent all(qac)</td><td>1</td><td>0</td><td>100.00%</td><td>33 ms</td><td>33 ms</td><td>33 ms</td><td align="center"><a href="javascript:change('page_details_13')"><img alt="expand/collapse" src="expand.jpg" id="page_details_13_image"></a></td>
+</tr>
+<tr class="page_details" id="page_details_13">
+<td bgcolor="#FF0000" colspan="8">
+<div align="center">
+<b>Details for Page "radioedit_dlcontent all(qac)"</b>
+<table width="95%" cellspacing="0" cellpadding="0" border="1" bordercolor="#000000">
+<tr>
+<th>Thread</th><th>Iteration</th><th>Time (milliseconds)</th><th>Bytes</th><th>Success</th>
+</tr>
+<tr>
+<td>Genre 2-1</td><td>1</td><td align="right">33</td><td align="right">455</td><td align="center">true</td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+<tr valign="top" class="">
+<td>perfectFor-ps3</td><td>1</td><td>0</td><td>100.00%</td><td>67 ms</td><td>67 ms</td><td>67 ms</td><td align="center"><a href="javascript:change('page_details_14')"><img alt="expand/collapse" src="expand.jpg" id="page_details_14_image"></a></td>
+</tr>
+<tr class="page_details" id="page_details_14">
+<td bgcolor="#FF0000" colspan="8">
+<div align="center">
+<b>Details for Page "perfectFor-ps3"</b>
+<table width="95%" cellspacing="0" cellpadding="0" border="1" bordercolor="#000000">
+<tr>
+<th>Thread</th><th>Iteration</th><th>Time (milliseconds)</th><th>Bytes</th><th>Success</th>
+</tr>
+<tr>
+<td>Perfect For 1-1</td><td>1</td><td align="right">67</td><td align="right">18972</td><td align="center">true</td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+<tr valign="top" class="">
+<td>perfectFor-samsungTv</td><td>1</td><td>0</td><td>100.00%</td><td>74 ms</td><td>74 ms</td><td>74 ms</td><td align="center"><a href="javascript:change('page_details_15')"><img alt="expand/collapse" src="expand.jpg" id="page_details_15_image"></a></td>
+</tr>
+<tr class="page_details" id="page_details_15">
+<td bgcolor="#FF0000" colspan="8">
+<div align="center">
+<b>Details for Page "perfectFor-samsungTv"</b>
+<table width="95%" cellspacing="0" cellpadding="0" border="1" bordercolor="#000000">
+<tr>
+<th>Thread</th><th>Iteration</th><th>Time (milliseconds)</th><th>Bytes</th><th>Success</th>
+</tr>
+<tr>
+<td>Perfect For 1-1</td><td>1</td><td align="right">74</td><td align="right">18972</td><td align="center">true</td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+<tr valign="top" class="">
+<td>perfectFor-web</td><td>1</td><td>0</td><td>100.00%</td><td>35 ms</td><td>35 ms</td><td>35 ms</td><td align="center"><a href="javascript:change('page_details_16')"><img alt="expand/collapse" src="expand.jpg" id="page_details_16_image"></a></td>
+</tr>
+<tr class="page_details" id="page_details_16">
+<td bgcolor="#FF0000" colspan="8">
+<div align="center">
+<b>Details for Page "perfectFor-web"</b>
+<table width="95%" cellspacing="0" cellpadding="0" border="1" bordercolor="#000000">
+<tr>
+<th>Thread</th><th>Iteration</th><th>Time (milliseconds)</th><th>Bytes</th><th>Success</th>
+</tr>
+<tr>
+<td>Perfect For 1-1</td><td>1</td><td align="right">35</td><td align="right">21642</td><td align="center">true</td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+<tr valign="top" class="">
+<td>perfectFor-windowsPhone8</td><td>1</td><td>0</td><td>100.00%</td><td>57 ms</td><td>57 ms</td><td>57 ms</td><td align="center"><a href="javascript:change('page_details_17')"><img alt="expand/collapse" src="expand.jpg" id="page_details_17_image"></a></td>
+</tr>
+<tr class="page_details" id="page_details_17">
+<td bgcolor="#FF0000" colspan="8">
+<div align="center">
+<b>Details for Page "perfectFor-windowsPhone8"</b>
+<table width="95%" cellspacing="0" cellpadding="0" border="1" bordercolor="#000000">
+<tr>
+<th>Thread</th><th>Iteration</th><th>Time (milliseconds)</th><th>Bytes</th><th>Success</th>
+</tr>
+<tr>
+<td>Perfect For 1-1</td><td>1</td><td align="right">57</td><td align="right">18972</td><td align="center">true</td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+<tr valign="top" class="">
+<td>perfectFor-xbox</td><td>1</td><td>0</td><td>100.00%</td><td>77 ms</td><td>77 ms</td><td>77 ms</td><td align="center"><a href="javascript:change('page_details_18')"><img alt="expand/collapse" src="expand.jpg" id="page_details_18_image"></a></td>
+</tr>
+<tr class="page_details" id="page_details_18">
+<td bgcolor="#FF0000" colspan="8">
+<div align="center">
+<b>Details for Page "perfectFor-xbox"</b>
+<table width="95%" cellspacing="0" cellpadding="0" border="1" bordercolor="#000000">
+<tr>
+<th>Thread</th><th>Iteration</th><th>Time (milliseconds)</th><th>Bytes</th><th>Success</th>
+</tr>
+<tr>
+<td>Perfect For 1-1</td><td>1</td><td align="right">77</td><td align="right">18971</td><td align="center">true</td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+<tr valign="top" class="">
+<td>radioedit_dlcontent all(prod)</td><td>1</td><td>0</td><td>100.00%</td><td>333 ms</td><td>333 ms</td><td>333 ms</td><td align="center"><a href="javascript:change('page_details_19')"><img alt="expand/collapse" src="expand.jpg" id="page_details_19_image"></a></td>
+</tr>
+<tr class="page_details" id="page_details_19">
+<td bgcolor="#FF0000" colspan="8">
+<div align="center">
+<b>Details for Page "radioedit_dlcontent all(prod)"</b>
+<table width="95%" cellspacing="0" cellpadding="0" border="1" bordercolor="#000000">
+<tr>
+<th>Thread</th><th>Iteration</th><th>Time (milliseconds)</th><th>Bytes</th><th>Success</th>
+</tr>
+<tr>
+<td>Genre 2-1</td><td>1</td><td align="right">333</td><td align="right">176523</td><td align="center">true</td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+</table>
+<hr align="left" width="95%" size="1">
+</body>
+</html>

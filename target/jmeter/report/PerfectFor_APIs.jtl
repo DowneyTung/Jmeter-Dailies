@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="213" lt="213" ts="1459447072957" s="true" lb="Genre(qac)" rc="200" rm="OK" tn="Genre 2-1" dt="text" by="321">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="334" lt="332" ts="1459447072956" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Sample test 3-1" dt="text" by="21642">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="335" lt="333" ts="1459447072955" s="true" lb="perfectFor-amazon-dev" rc="200" rm="OK" tn="Perfect For 1-1" dt="text" by="21642">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="46" lt="45" ts="1459447073292" s="true" lb="PerfectFor-amazon-Iris" rc="200" rm="OK" tn="Perfect For 1-1" dt="text" by="18973">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="43" lt="42" ts="1459447073339" s="true" lb="perfectFor-Android" rc="200" rm="OK" tn="Perfect For 1-1" dt="text" by="18973">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="29" lt="28" ts="1459447073383" s="true" lb="perfectFor-Blackberry" rc="200" rm="OK" tn="Perfect For 1-1" dt="text" by="18972">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="86" lt="85" ts="1459447073413" s="true" lb="perfectFor-iPad" rc="200" rm="OK" tn="Perfect For 1-1" dt="text" by="18972">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="29" lt="28" ts="1459447073500" s="true" lb="perfectFor-iPhone" rc="200" rm="OK" tn="Perfect For 1-1" dt="text" by="18972">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="394" lt="382" ts="1459447073173" s="true" lb="Genre(prod)" rc="200" rm="OK" tn="Genre 2-1" dt="text" by="22511">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="29" lt="29" ts="1459447073569" s="true" lb="Radioedit_genre metaqac)" rc="200" rm="OK" tn="Genre 2-1" dt="text" by="335">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="70" lt="69" ts="1459447073530" s="true" lb="perfectFor-logitech" rc="200" rm="OK" tn="Perfect For 1-1" dt="text" by="18972">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="22" lt="22" ts="1459447073599" s="true" lb="Radioedit-genre meta(prod)" rc="200" rm="OK" tn="Genre 2-1" dt="text" by="478">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="33" lt="33" ts="1459447073622" s="true" lb="radioedit_dlcontent all(qac)" rc="200" rm="OK" tn="Genre 2-1" dt="text" by="455">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="67" lt="66" ts="1459447073600" s="true" lb="perfectFor-ps3" rc="200" rm="OK" tn="Perfect For 1-1" dt="text" by="18972">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="74" lt="73" ts="1459447073668" s="true" lb="perfectFor-samsungTv" rc="200" rm="OK" tn="Perfect For 1-1" dt="text" by="18972">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="35" lt="33" ts="1459447073743" s="true" lb="perfectFor-web" rc="200" rm="OK" tn="Perfect For 1-1" dt="text" by="21642">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="57" lt="56" ts="1459447073779" s="true" lb="perfectFor-windowsPhone8" rc="200" rm="OK" tn="Perfect For 1-1" dt="text" by="18972">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="77" lt="67" ts="1459447073837" s="true" lb="perfectFor-xbox" rc="200" rm="OK" tn="Perfect For 1-1" dt="text" by="18971">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="333" lt="264" ts="1459447073657" s="true" lb="radioedit_dlcontent all(prod)" rc="200" rm="OK" tn="Genre 2-1" dt="text" by="176523">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+
+</testResults>
