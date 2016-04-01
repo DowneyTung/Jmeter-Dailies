@@ -385,7 +385,7 @@
         </HTTPSamplerProxy>
         <hashTree>
           <MD5HexAssertion guiclass="MD5HexAssertionGUI" testclass="MD5HexAssertion" testname="MD5Hex Assertion" enabled="true">
-            <stringProp name="MD5HexAssertion.size">5be439ba7050162f9e4216fc97e3be34</stringProp>
+            <stringProp name="MD5HexAssertion.size">4ed394437d4e7aa5ba9b6876dd4730c0</stringProp>
           </MD5HexAssertion>
           <hashTree/>
         </hashTree>
@@ -707,7 +707,7 @@
         </HTTPSamplerProxy>
         <hashTree>
           <MD5HexAssertion guiclass="MD5HexAssertionGUI" testclass="MD5HexAssertion" testname="MD5Hex Assertion" enabled="true">
-            <stringProp name="MD5HexAssertion.size">38f094513c6d067e31d288003700e3d1</stringProp>
+            <stringProp name="MD5HexAssertion.size">e9fcb92ab2e773f1b662a5086690d674</stringProp>
           </MD5HexAssertion>
           <hashTree/>
         </hashTree>
@@ -732,7 +732,7 @@
         </HTTPSamplerProxy>
         <hashTree>
           <MD5HexAssertion guiclass="MD5HexAssertionGUI" testclass="MD5HexAssertion" testname="MD5Hex Assertion" enabled="true">
-            <stringProp name="MD5HexAssertion.size">744033b91d46069c202b1fc6861aeb9e</stringProp>
+            <stringProp name="MD5HexAssertion.size">60044b1724422199f554729d89d5b2a8</stringProp>
           </MD5HexAssertion>
           <hashTree/>
         </hashTree>
@@ -807,7 +807,7 @@
         </HTTPSamplerProxy>
         <hashTree>
           <MD5HexAssertion guiclass="MD5HexAssertionGUI" testclass="MD5HexAssertion" testname="MD5Hex Assertion" enabled="true">
-            <stringProp name="MD5HexAssertion.size">fa6631196196d66fad606ec37c385edb</stringProp>
+            <stringProp name="MD5HexAssertion.size">154bb19aa8bf3b867264fc596a39caf7</stringProp>
           </MD5HexAssertion>
           <hashTree/>
         </hashTree>
@@ -832,7 +832,7 @@
         </HTTPSamplerProxy>
         <hashTree>
           <MD5HexAssertion guiclass="MD5HexAssertionGUI" testclass="MD5HexAssertion" testname="MD5Hex Assertion" enabled="true">
-            <stringProp name="MD5HexAssertion.size">e982634cd2360e5ea1b31a0c4f6a1dd2</stringProp>
+            <stringProp name="MD5HexAssertion.size">14722400f44f8a0fb593aa4f10a3b6fe</stringProp>
           </MD5HexAssertion>
           <hashTree/>
         </hashTree>
@@ -1203,7 +1203,7 @@
         </HTTPSamplerProxy>
         <hashTree>
           <MD5HexAssertion guiclass="MD5HexAssertionGUI" testclass="MD5HexAssertion" testname="MD5Hex Assertion" enabled="true">
-            <stringProp name="MD5HexAssertion.size">3a1419f643013f8ea1553e4d3babbc09</stringProp>
+            <stringProp name="MD5HexAssertion.size">329b6e63a7cf315cb7d55fa410931969</stringProp>
           </MD5HexAssertion>
           <hashTree/>
         </hashTree>
