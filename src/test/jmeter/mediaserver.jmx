@@ -523,7 +523,7 @@
           <stringProp name="HTTPSampler.response_timeout"></stringProp>
           <stringProp name="HTTPSampler.protocol"></stringProp>
           <stringProp name="HTTPSampler.contentEncoding"></stringProp>
-          <stringProp name="HTTPSampler.path">/v3/catalog/track/20438106?blurSigma=40</stringProp>
+          <stringProp name="HTTPSampler.path">/v3/catalog/track/20438106?blurSigma=40&amp;format=png</stringProp>
           <stringProp name="HTTPSampler.method">GET</stringProp>
           <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
           <boolProp name="HTTPSampler.auto_redirects">false</boolProp>
@@ -707,7 +707,7 @@
         </HTTPSamplerProxy>
         <hashTree>
           <MD5HexAssertion guiclass="MD5HexAssertionGUI" testclass="MD5HexAssertion" testname="MD5Hex Assertion" enabled="true">
-            <stringProp name="MD5HexAssertion.size">2f1990a22c3bb275fa957cf555b94830</stringProp>
+            <stringProp name="MD5HexAssertion.size">c46630448555f3e897fe274ab98c0e79</stringProp>
           </MD5HexAssertion>
           <hashTree/>
         </hashTree>
@@ -746,7 +746,7 @@
           <stringProp name="HTTPSampler.response_timeout"></stringProp>
           <stringProp name="HTTPSampler.protocol"></stringProp>
           <stringProp name="HTTPSampler.contentEncoding"></stringProp>
-          <stringProp name="HTTPSampler.path">/catalog/favorites/15570180?ops=fit(480%2C480)</stringProp>
+          <stringProp name="HTTPSampler.path">/catalog/favorites/15570180?ops=fit(480%2C480)&amp;format=png</stringProp>
           <stringProp name="HTTPSampler.method">GET</stringProp>
           <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
           <boolProp name="HTTPSampler.auto_redirects">false</boolProp>
@@ -757,7 +757,7 @@
         </HTTPSamplerProxy>
         <hashTree>
           <MD5HexAssertion guiclass="MD5HexAssertionGUI" testclass="MD5HexAssertion" testname="MD5Hex Assertion" enabled="true">
-            <stringProp name="MD5HexAssertion.size">950262b1cd535f10a5d4ee979ff1f162</stringProp>
+            <stringProp name="MD5HexAssertion.size">24364ae5c7893772a1ea00f27b1c6627</stringProp>
           </MD5HexAssertion>
           <hashTree/>
         </hashTree>
@@ -931,7 +931,7 @@
         </HTTPSamplerProxy>
         <hashTree>
           <MD5HexAssertion guiclass="MD5HexAssertionGUI" testclass="MD5HexAssertion" testname="MD5Hex Assertion" enabled="true">
-            <stringProp name="MD5HexAssertion.size">4acc46b208eb6972e20f2422244be9e6</stringProp>
+            <stringProp name="MD5HexAssertion.size">ebb424a3a1419d7fd22ed3f67630a4a0</stringProp>
           </MD5HexAssertion>
           <hashTree/>
         </hashTree>
@@ -1192,7 +1192,7 @@
           <stringProp name="HTTPSampler.response_timeout"></stringProp>
           <stringProp name="HTTPSampler.protocol"></stringProp>
           <stringProp name="HTTPSampler.contentEncoding"></stringProp>
-          <stringProp name="HTTPSampler.path">/catalog/featured/57?</stringProp>
+          <stringProp name="HTTPSampler.path">/catalog/featured/57?&amp;format=png</stringProp>
           <stringProp name="HTTPSampler.method">GET</stringProp>
           <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
           <boolProp name="HTTPSampler.auto_redirects">false</boolProp>
@@ -1203,7 +1203,7 @@
         </HTTPSamplerProxy>
         <hashTree>
           <MD5HexAssertion guiclass="MD5HexAssertionGUI" testclass="MD5HexAssertion" testname="MD5Hex Assertion" enabled="true">
-            <stringProp name="MD5HexAssertion.size">329b6e63a7cf315cb7d55fa410931969</stringProp>
+            <stringProp name="MD5HexAssertion.size">c91259781ab1fd127f23c5c74966df29</stringProp>
           </MD5HexAssertion>
           <hashTree/>
         </hashTree>
@@ -1217,7 +1217,7 @@
           <stringProp name="HTTPSampler.response_timeout"></stringProp>
           <stringProp name="HTTPSampler.protocol"></stringProp>
           <stringProp name="HTTPSampler.contentEncoding"></stringProp>
-          <stringProp name="HTTPSampler.path">/v3/catalog/featured/57?</stringProp>
+          <stringProp name="HTTPSampler.path">/v3/catalog/featured/57?&amp;format=png</stringProp>
           <stringProp name="HTTPSampler.method">GET</stringProp>
           <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
           <boolProp name="HTTPSampler.auto_redirects">false</boolProp>
@@ -1228,7 +1228,7 @@
         </HTTPSamplerProxy>
         <hashTree>
           <MD5HexAssertion guiclass="MD5HexAssertionGUI" testclass="MD5HexAssertion" testname="MD5Hex Assertion" enabled="true">
-            <stringProp name="MD5HexAssertion.size">c576a865235e9c4b8465c893e6ae2be4</stringProp>
+            <stringProp name="MD5HexAssertion.size">d6d90602c1b13599d0fff8d62a17914f</stringProp>
           </MD5HexAssertion>
           <hashTree/>
         </hashTree>
@@ -1291,7 +1291,7 @@
           <stringProp name="HTTPSampler.response_timeout"></stringProp>
           <stringProp name="HTTPSampler.protocol"></stringProp>
           <stringProp name="HTTPSampler.contentEncoding"></stringProp>
-          <stringProp name="HTTPSampler.path">/v3/catalog/artist/36647?ops=run%28%22circle%22%29</stringProp>
+          <stringProp name="HTTPSampler.path">/v3/catalog/artist/36647?ops=run%28%22circle%22%29&amp;format=png</stringProp>
           <stringProp name="HTTPSampler.method">GET</stringProp>
           <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
           <boolProp name="HTTPSampler.auto_redirects">false</boolProp>
@@ -1302,7 +1302,7 @@
         </HTTPSamplerProxy>
         <hashTree>
           <MD5HexAssertion guiclass="MD5HexAssertionGUI" testclass="MD5HexAssertion" testname="MD5Hex Assertion" enabled="true">
-            <stringProp name="MD5HexAssertion.size">0501419e606749e14519bfd6da72ddb5</stringProp>
+            <stringProp name="MD5HexAssertion.size">91d360a19211b6c8d862029d23eb5d16</stringProp>
           </MD5HexAssertion>
           <hashTree/>
         </hashTree>
@@ -1316,7 +1316,7 @@
           <stringProp name="HTTPSampler.response_timeout"></stringProp>
           <stringProp name="HTTPSampler.protocol"></stringProp>
           <stringProp name="HTTPSampler.contentEncoding"></stringProp>
-          <stringProp name="HTTPSampler.path">/v3/catalog/artist/36647?ops=run%28%22od%22%29</stringProp>
+          <stringProp name="HTTPSampler.path">/v3/catalog/artist/36647?ops=run%28%22od%22%29&amp;format=png</stringProp>
           <stringProp name="HTTPSampler.method">GET</stringProp>
           <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
           <boolProp name="HTTPSampler.auto_redirects">false</boolProp>
@@ -1327,7 +1327,7 @@
         </HTTPSamplerProxy>
         <hashTree>
           <MD5HexAssertion guiclass="MD5HexAssertionGUI" testclass="MD5HexAssertion" testname="MD5Hex Assertion" enabled="true">
-            <stringProp name="MD5HexAssertion.size">cc1cccfd57c74577247589eecfd126a5</stringProp>
+            <stringProp name="MD5HexAssertion.size">f22e7886ab791b614f9dcf9b20b0b5e5</stringProp>
           </MD5HexAssertion>
           <hashTree/>
         </hashTree>
