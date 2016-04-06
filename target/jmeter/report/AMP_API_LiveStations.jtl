@@ -1,192 +1,193 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testResults version="1.2">
-<httpSample t="72" lt="72" ts="1459447064464" s="true" lb="Z100" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="2091">
+<httpSample t="137" lt="137" ts="1459957178501" s="true" lb="Z100" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="2091">
   <assertionResult>
     <name>Response Assertion</name>
     <failure>false</failure>
     <error>false</error>
   </assertionResult>
 </httpSample>
-<httpSample t="75" lt="75" ts="1459447064663" s="true" lb="106.7 Lite fm" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="2164">
+<httpSample t="56" lt="56" ts="1459957178769" s="true" lb="106.7 Lite fm" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="2164">
   <assertionResult>
     <name>Response Assertion</name>
     <failure>false</failure>
     <error>false</error>
   </assertionResult>
 </httpSample>
-<httpSample t="17" lt="17" ts="1459447064739" s="true" lb="The Lounge" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="1611">
+<httpSample t="10" lt="10" ts="1459957178826" s="true" lb="The Lounge" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="1611">
   <assertionResult>
     <name>Response Assertion</name>
     <failure>false</failure>
     <error>false</error>
   </assertionResult>
 </httpSample>
-<httpSample t="12" lt="12" ts="1459447064757" s="true" lb="Radio New Zealand Concert" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="1795">
+<httpSample t="9" lt="9" ts="1459957178837" s="true" lb="Radio New Zealand Concert" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="1795">
   <assertionResult>
     <name>Response Assertion</name>
     <failure>false</failure>
     <error>false</error>
   </assertionResult>
 </httpSample>
-<httpSample t="7" lt="7" ts="1459447064770" s="true" lb="KCRW 89.9 On Air" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="1681">
+<httpSample t="9" lt="9" ts="1459957178848" s="true" lb="KCRW 89.9 On Air" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="1681">
   <assertionResult>
     <name>Response Assertion</name>
     <failure>false</failure>
     <error>false</error>
   </assertionResult>
 </httpSample>
-<httpSample t="8" lt="8" ts="1459447064777" s="true" lb="WNYC-FM News, Talk &amp; Culture" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="1688">
+<httpSample t="9" lt="9" ts="1459957178858" s="true" lb="WNYC-FM News, Talk &amp; Culture" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="1688">
   <assertionResult>
     <name>Response Assertion</name>
     <failure>false</failure>
     <error>false</error>
   </assertionResult>
 </httpSample>
-<httpSample t="5" lt="5" ts="1459447064786" s="true" lb="97.3 WMEE	" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="1681">
+<httpSample t="8" lt="8" ts="1459957178868" s="true" lb="97.3 WMEE	" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="1681">
   <assertionResult>
     <name>Response Assertion</name>
     <failure>false</failure>
     <error>false</error>
   </assertionResult>
 </httpSample>
-<httpSample t="6" lt="6" ts="1459447064792" s="true" lb="Houston Public Media News" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="1764">
+<httpSample t="14" lt="14" ts="1459957178877" s="true" lb="Houston Public Media News" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="1764">
   <assertionResult>
     <name>Response Assertion</name>
     <failure>false</failure>
     <error>false</error>
   </assertionResult>
 </httpSample>
-<httpSample t="6" lt="6" ts="1459447064799" s="true" lb="opbmusic	" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="1623">
+<httpSample t="10" lt="10" ts="1459957178893" s="true" lb="opbmusic	" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="1623">
   <assertionResult>
     <name>Response Assertion</name>
     <failure>false</failure>
     <error>false</error>
   </assertionResult>
 </httpSample>
-<httpSample t="8" lt="8" ts="1459447064805" s="true" lb="KJAZZ 88.1	" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="1619">
+<httpSample t="8" lt="8" ts="1459957178905" s="true" lb="KJAZZ 88.1	" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="1619">
   <assertionResult>
     <name>Response Assertion</name>
     <failure>false</failure>
     <error>false</error>
   </assertionResult>
 </httpSample>
-<httpSample t="4" lt="4" ts="1459447064814" s="true" lb="95.5 PLJ	" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="1642">
+<httpSample t="7" lt="7" ts="1459957178914" s="true" lb="95.5 PLJ	" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="1642">
   <assertionResult>
     <name>Response Assertion</name>
     <failure>false</failure>
     <error>false</error>
   </assertionResult>
 </httpSample>
-<httpSample t="4" lt="4" ts="1459447064819" s="true" lb="POWER106" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="1669">
+<httpSample t="8" lt="8" ts="1459957178923" s="true" lb="POWER106" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="1669">
   <assertionResult>
     <name>Response Assertion</name>
     <failure>false</failure>
     <error>false</error>
   </assertionResult>
 </httpSample>
-<httpSample t="5" lt="5" ts="1459447064824" s="true" lb="B98.5 FM	" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="1717">
+<httpSample t="8" lt="8" ts="1459957178931" s="true" lb="B98.5 FM	" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="1717">
   <assertionResult>
     <name>Response Assertion</name>
     <failure>false</failure>
     <error>false</error>
   </assertionResult>
 </httpSample>
-<httpSample t="5" lt="5" ts="1459447064829" s="true" lb="Truth Radio 1340	" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="1590">
+<httpSample t="8" lt="8" ts="1459957178940" s="true" lb="Truth Radio 1340	" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="1590">
   <assertionResult>
     <name>Response Assertion</name>
     <failure>false</failure>
     <error>false</error>
   </assertionResult>
 </httpSample>
-<httpSample t="4" lt="4" ts="1459447064835" s="true" lb="Azucar	" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="1620">
+<httpSample t="6" lt="6" ts="1459957178949" s="true" lb="Azucar	" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="1620">
   <assertionResult>
     <name>Response Assertion</name>
     <failure>false</failure>
     <error>false</error>
   </assertionResult>
 </httpSample>
-<httpSample t="7" lt="7" ts="1459447064840" s="true" lb="KEXP 90.3	" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="1641">
+<httpSample t="6" lt="6" ts="1459957178956" s="true" lb="KEXP 90.3	" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="1641">
   <assertionResult>
     <name>Response Assertion</name>
     <failure>false</failure>
     <error>false</error>
   </assertionResult>
 </httpSample>
-<httpSample t="7" lt="7" ts="1459447064847" s="true" lb="Faith And Friends Radio" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="1674">
+<httpSample t="7" lt="7" ts="1459957178963" s="true" lb="Faith And Friends Radio" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="1674">
   <assertionResult>
     <name>Response Assertion</name>
     <failure>false</failure>
     <error>false</error>
   </assertionResult>
 </httpSample>
-<httpSample t="7" lt="7" ts="1459447064854" s="true" lb="True Oldies Channel	" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="1619">
+<httpSample t="5" lt="5" ts="1459957178971" s="true" lb="True Oldies Channel	" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="1619">
   <assertionResult>
     <name>Response Assertion</name>
     <failure>false</failure>
     <error>false</error>
   </assertionResult>
 </httpSample>
-<httpSample t="5" lt="5" ts="1459447064862" s="true" lb="This American Life 24/7	" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="1701">
+<httpSample t="7" lt="7" ts="1459957178976" s="true" lb="This American Life 24/7	" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="1701">
   <assertionResult>
     <name>Response Assertion</name>
     <failure>false</failure>
     <error>false</error>
   </assertionResult>
 </httpSample>
-<httpSample t="5" lt="5" ts="1459447064867" s="true" lb="WFUV On-Air	" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="1645">
+<httpSample t="6" lt="6" ts="1459957178984" s="true" lb="WFUV On-Air	" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="1645">
   <assertionResult>
     <name>Response Assertion</name>
     <failure>false</failure>
     <error>false</error>
   </assertionResult>
 </httpSample>
-<httpSample t="8" lt="8" ts="1459447064873" s="true" lb="96F-FM	" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="1736">
+<httpSample t="5" lt="5" ts="1459957178991" s="true" lb="96F-FM	" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="1736">
   <assertionResult>
     <name>Response Assertion</name>
     <failure>false</failure>
     <error>false</error>
   </assertionResult>
 </httpSample>
-<httpSample t="5" lt="5" ts="1459447064881" s="true" lb="Newstalk ZB Wellington" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="1620">
+<httpSample t="5" lt="5" ts="1459957178997" s="true" lb="Newstalk ZB Wellington" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="1620">
   <assertionResult>
     <name>Response Assertion</name>
     <failure>false</failure>
     <error>false</error>
   </assertionResult>
 </httpSample>
-<httpSample t="5" lt="5" ts="1459447064887" s="true" lb="97.7 Kicker FM" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="2016">
+<httpSample t="5" lt="5" ts="1459957179003" s="true" lb="97.7 Kicker FM" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="2016">
   <assertionResult>
     <name>Response Assertion</name>
     <failure>false</failure>
     <error>false</error>
   </assertionResult>
 </httpSample>
-<httpSample t="4" lt="4" ts="1459447064893" s="true" lb="X96.3 FM New York	" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="1751">
+<httpSample t="5" lt="5" ts="1459957179009" s="true" lb="X96.3 FM New York	" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="1751">
   <assertionResult>
     <name>Response Assertion</name>
     <failure>false</failure>
     <error>false</error>
   </assertionResult>
 </httpSample>
-<httpSample t="5" lt="5" ts="1459447064898" s="true" lb="The Current	" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="1724">
+<httpSample t="5" lt="5" ts="1459957179015" s="true" lb="The Current	" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="1724">
   <assertionResult>
     <name>Response Assertion</name>
     <failure>false</failure>
     <error>false</error>
   </assertionResult>
 </httpSample>
-<httpSample t="5" lt="5" ts="1459447064903" s="true" lb="Universal 92.1 FM	" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="1664">
+<httpSample t="7" lt="7" ts="1459957179021" s="true" lb="Universal 92.1 FM	" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="1664">
   <assertionResult>
     <name>Response Assertion</name>
     <failure>false</failure>
     <error>false</error>
   </assertionResult>
 </httpSample>
-<httpSample t="5" lt="5" ts="1459447064909" s="true" lb="Immaculate Heart Radio AM1620	" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="1653">
+<httpSample t="4" lt="4" ts="1459957179029" s="false" lb="Immaculate Heart Radio AM1620	" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="1640">
   <assertionResult>
     <name>Response Assertion</name>
-    <failure>false</failure>
+    <failure>true</failure>
     <error>false</error>
+    <failureMessage>Test failed: text expected to contain /&quot;feeds&quot;:{&quot;site_id&quot;:&quot;0&quot;}/</failureMessage>
   </assertionResult>
 </httpSample>
 

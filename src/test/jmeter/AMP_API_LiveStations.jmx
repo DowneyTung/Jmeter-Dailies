@@ -1678,7 +1678,7 @@
                 <stringProp name="974963629">&quot;freq&quot;:&quot;1620.0&quot;</stringProp>
                 <stringProp name="25956748">&quot;countries&quot;:&quot;US&quot;</stringProp>
                 <stringProp name="1662911274">&quot;shoutcast_stream&quot;:&quot;http://ihradio.mp3.miisolutions.net:80/ksmh/ksmh-am_iheart&quot;</stringProp>
-                <stringProp name="502129218">&quot;feeds&quot;:{&quot;site_id&quot;:&quot;0&quot;}</stringProp>
+                <stringProp name="-1849985205">&quot;feeds&quot;:</stringProp>
                 <stringProp name="-304519561">&quot;format&quot;:&quot;Prov_Other&quot;</stringProp>
                 <stringProp name="354826185">&quot;provider&quot;:&quot;Other&quot;</stringProp>
                 <stringProp name="532082176">&quot;rds&quot;:&quot;KSMH-AM Sacramento&quot;</stringProp>

@@ -1,74 +1,29 @@
-2016/03/31 13:58:07 INFO  - jmeter.util.JMeterUtils: Setting Locale to en_US 
-2016/03/31 13:58:07 INFO  - jmeter.JMeter: Loading user properties from: /Users/DTung/Jmeter-Dailies/target/jmeter/bin/user.properties 
-2016/03/31 13:58:07 INFO  - jmeter.JMeter: Loading system properties from: /Users/DTung/Jmeter-Dailies/target/jmeter/bin/system.properties 
-2016/03/31 13:58:07 INFO  - jmeter.JMeter: Copyright (c) 1998-2012 The Apache Software Foundation 
-2016/03/31 13:58:07 INFO  - jmeter.JMeter: Version 2.6 r1237317 
-2016/03/31 13:58:07 INFO  - jmeter.JMeter: java.version=1.8.0_45 
-2016/03/31 13:58:07 INFO  - jmeter.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM 
-2016/03/31 13:58:07 INFO  - jmeter.JMeter: os.name=Mac OS X 
-2016/03/31 13:58:07 INFO  - jmeter.JMeter: os.arch=x86_64 
-2016/03/31 13:58:07 INFO  - jmeter.JMeter: os.version=10.10.3 
-2016/03/31 13:58:07 INFO  - jmeter.JMeter: file.encoding=UTF-8 
-2016/03/31 13:58:07 INFO  - jmeter.JMeter: Default Locale=English (United States) 
-2016/03/31 13:58:07 INFO  - jmeter.JMeter: JMeter  Locale=English (United States) 
-2016/03/31 13:58:07 INFO  - jmeter.JMeter: JMeterHome=/Users/DTung/Jmeter-Dailies/target/jmeter 
-2016/03/31 13:58:07 INFO  - jmeter.JMeter: user.dir  =/Users/DTung/Jmeter-Dailies/target/jmeter/bin 
-2016/03/31 13:58:07 INFO  - jmeter.JMeter: PWD       =/Users/DTung/Jmeter-Dailies/target/jmeter/bin 
-2016/03/31 13:58:07 INFO  - jmeter.JMeter: IP: 10.89.196.16 Name: CCCNYC04DXT.local FullName: 10.89.196.16 
-2016/03/31 13:58:07 INFO  - jmeter.services.FileServer: Set new base='/Users/DTung/Jmeter-Dailies/src/test/jmeter' 
-2016/03/31 13:58:07 INFO  - jmeter.JMeter: Loading file: /Users/DTung/Jmeter-Dailies/src/test/jmeter/mediaserver.jmx 
-2016/03/31 13:58:07 INFO  - jmeter.engine.StandardJMeterEngine: Running the test! 
-2016/03/31 13:58:07 INFO  - jmeter.JMeter: Running test (1459447087882) 
-2016/03/31 13:58:07 INFO  - jmeter.engine.StandardJMeterEngine: Starting 1 threads for group Artist. 
-2016/03/31 13:58:07 INFO  - jmeter.engine.StandardJMeterEngine: Thread will continue on error 
-2016/03/31 13:58:07 INFO  - jmeter.engine.StandardJMeterEngine: Starting 1 threads for group Metadata. 
-2016/03/31 13:58:07 INFO  - jmeter.engine.StandardJMeterEngine: Thread will continue on error 
-2016/03/31 13:58:07 INFO  - jmeter.threads.JMeterThread: Thread started: Artist 1-1 
-2016/03/31 13:58:07 INFO  - jmeter.engine.StandardJMeterEngine: Starting 1 threads for group Live. 
-2016/03/31 13:58:07 INFO  - jmeter.engine.StandardJMeterEngine: Thread will continue on error 
-2016/03/31 13:58:07 INFO  - jmeter.threads.JMeterThread: Thread started: Metadata 2-1 
-2016/03/31 13:58:07 INFO  - jmeter.engine.StandardJMeterEngine: Starting 1 threads for group Track. 
-2016/03/31 13:58:07 INFO  - jmeter.engine.StandardJMeterEngine: Thread will continue on error 
-2016/03/31 13:58:07 INFO  - jmeter.threads.JMeterThread: Thread started: Live 3-1 
-2016/03/31 13:58:07 INFO  - jmeter.engine.StandardJMeterEngine: Starting 1 threads for group Album. 
-2016/03/31 13:58:07 INFO  - jmeter.engine.StandardJMeterEngine: Thread will continue on error 
-2016/03/31 13:58:07 INFO  - jmeter.threads.JMeterThread: Thread started: Track 4-1 
-2016/03/31 13:58:07 INFO  - jmeter.engine.StandardJMeterEngine: Starting 1 threads for group Favorites. 
-2016/03/31 13:58:07 INFO  - jmeter.engine.StandardJMeterEngine: Thread will continue on error 
-2016/03/31 13:58:07 INFO  - jmeter.threads.JMeterThread: Thread started: Album 5-1 
-2016/03/31 13:58:07 INFO  - jmeter.engine.StandardJMeterEngine: Starting 1 threads for group Show. 
-2016/03/31 13:58:07 INFO  - jmeter.engine.StandardJMeterEngine: Thread will continue on error 
-2016/03/31 13:58:07 INFO  - jmeter.threads.JMeterThread: Thread started: Favorites 6-1 
-2016/03/31 13:58:07 INFO  - jmeter.engine.StandardJMeterEngine: Starting 1 threads for group Theme. 
-2016/03/31 13:58:07 INFO  - jmeter.engine.StandardJMeterEngine: Thread will continue on error 
-2016/03/31 13:58:07 INFO  - jmeter.threads.JMeterThread: Thread started: Show 7-1 
-2016/03/31 13:58:07 INFO  - jmeter.engine.StandardJMeterEngine: Starting 1 threads for group Episode. 
-2016/03/31 13:58:07 INFO  - jmeter.engine.StandardJMeterEngine: Thread will continue on error 
-2016/03/31 13:58:07 INFO  - jmeter.threads.JMeterThread: Thread started: Theme 8-1 
-2016/03/31 13:58:07 INFO  - jmeter.engine.StandardJMeterEngine: Starting 1 threads for group Featured. 
-2016/03/31 13:58:07 INFO  - jmeter.engine.StandardJMeterEngine: Thread will continue on error 
-2016/03/31 13:58:07 INFO  - jmeter.threads.JMeterThread: Thread started: Episode 9-1 
-2016/03/31 13:58:07 INFO  - jmeter.engine.StandardJMeterEngine: All threads have been started 
-2016/03/31 13:58:07 INFO  - jmeter.threads.JMeterThread: Thread started: Featured 10-1 
-2016/03/31 13:58:08 INFO  - jmeter.threads.JMeterThread: Thread finished: Theme 8-1 
-2016/03/31 13:58:08 INFO  - jmeter.engine.StandardJMeterEngine: Ending thread Theme 8-1 
-2016/03/31 13:58:08 INFO  - jmeter.threads.JMeterThread: Thread finished: Metadata 2-1 
-2016/03/31 13:58:08 INFO  - jmeter.engine.StandardJMeterEngine: Ending thread Metadata 2-1 
-2016/03/31 13:58:08 INFO  - jmeter.threads.JMeterThread: Thread finished: Album 5-1 
-2016/03/31 13:58:08 INFO  - jmeter.engine.StandardJMeterEngine: Ending thread Album 5-1 
-2016/03/31 13:58:08 INFO  - jmeter.threads.JMeterThread: Thread finished: Live 3-1 
-2016/03/31 13:58:08 INFO  - jmeter.engine.StandardJMeterEngine: Ending thread Live 3-1 
-2016/03/31 13:58:08 INFO  - jmeter.threads.JMeterThread: Thread finished: Show 7-1 
-2016/03/31 13:58:08 INFO  - jmeter.engine.StandardJMeterEngine: Ending thread Show 7-1 
-2016/03/31 13:58:08 INFO  - jmeter.threads.JMeterThread: Thread finished: Episode 9-1 
-2016/03/31 13:58:08 INFO  - jmeter.engine.StandardJMeterEngine: Ending thread Episode 9-1 
-2016/03/31 13:58:08 INFO  - jmeter.threads.JMeterThread: Thread finished: Track 4-1 
-2016/03/31 13:58:08 INFO  - jmeter.engine.StandardJMeterEngine: Ending thread Track 4-1 
-2016/03/31 13:58:08 INFO  - jmeter.threads.JMeterThread: Thread finished: Artist 1-1 
-2016/03/31 13:58:08 INFO  - jmeter.engine.StandardJMeterEngine: Ending thread Artist 1-1 
-2016/03/31 13:58:08 INFO  - jmeter.threads.JMeterThread: Thread finished: Favorites 6-1 
-2016/03/31 13:58:08 INFO  - jmeter.engine.StandardJMeterEngine: Ending thread Favorites 6-1 
-2016/03/31 13:58:08 INFO  - jmeter.threads.JMeterThread: Thread finished: Featured 10-1 
-2016/03/31 13:58:08 INFO  - jmeter.engine.StandardJMeterEngine: Ending thread Featured 10-1 
-2016/03/31 13:58:08 INFO  - jmeter.engine.StandardJMeterEngine: Notifying test listeners of end of test 
-2016/03/31 13:58:08 INFO  - jmeter.engine.StandardJMeterEngine: Test has ended on host null 
+2016/04/06 11:40:01 INFO  - jmeter.util.JMeterUtils: Setting Locale to en_US 
+2016/04/06 11:40:01 INFO  - jmeter.JMeter: Loading user properties from: /Users/DTung/Jmeter-Dailies/target/jmeter/bin/user.properties 
+2016/04/06 11:40:01 INFO  - jmeter.JMeter: Loading system properties from: /Users/DTung/Jmeter-Dailies/target/jmeter/bin/system.properties 
+2016/04/06 11:40:01 INFO  - jmeter.JMeter: Copyright (c) 1998-2012 The Apache Software Foundation 
+2016/04/06 11:40:01 INFO  - jmeter.JMeter: Version 2.6 r1237317 
+2016/04/06 11:40:01 INFO  - jmeter.JMeter: java.version=1.8.0_45 
+2016/04/06 11:40:01 INFO  - jmeter.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM 
+2016/04/06 11:40:01 INFO  - jmeter.JMeter: os.name=Mac OS X 
+2016/04/06 11:40:01 INFO  - jmeter.JMeter: os.arch=x86_64 
+2016/04/06 11:40:01 INFO  - jmeter.JMeter: os.version=10.10.3 
+2016/04/06 11:40:01 INFO  - jmeter.JMeter: file.encoding=UTF-8 
+2016/04/06 11:40:01 INFO  - jmeter.JMeter: Default Locale=English (United States) 
+2016/04/06 11:40:01 INFO  - jmeter.JMeter: JMeter  Locale=English (United States) 
+2016/04/06 11:40:01 INFO  - jmeter.JMeter: JMeterHome=/Users/DTung/Jmeter-Dailies/target/jmeter 
+2016/04/06 11:40:01 INFO  - jmeter.JMeter: user.dir  =/Users/DTung/Jmeter-Dailies/target/jmeter/bin 
+2016/04/06 11:40:01 INFO  - jmeter.JMeter: PWD       =/Users/DTung/Jmeter-Dailies/target/jmeter/bin 
+2016/04/06 11:40:01 INFO  - jmeter.JMeter: IP: 10.89.196.52 Name: CCCNYC04DXT.local FullName: 10.89.196.52 
+2016/04/06 11:40:01 INFO  - jmeter.services.FileServer: Set new base='/Users/DTung/Jmeter-Dailies/src/test/jmeter' 
+2016/04/06 11:40:01 INFO  - jmeter.JMeter: Loading file: /Users/DTung/Jmeter-Dailies/src/test/jmeter/mediaserver.jmx 
+2016/04/06 11:40:01 INFO  - jmeter.engine.StandardJMeterEngine: Running the test! 
+2016/04/06 11:40:01 INFO  - jmeter.JMeter: Running test (1459957201911) 
+2016/04/06 11:40:01 INFO  - jmeter.engine.StandardJMeterEngine: Starting 1 threads for group Artist. 
+2016/04/06 11:40:01 INFO  - jmeter.engine.StandardJMeterEngine: Thread will continue on error 
+2016/04/06 11:40:01 INFO  - jmeter.engine.StandardJMeterEngine: All threads have been started 
+2016/04/06 11:40:01 INFO  - jmeter.threads.JMeterThread: Thread started: Artist 1-1 
+2016/04/06 11:40:02 INFO  - jmeter.threads.JMeterThread: Thread finished: Artist 1-1 
+2016/04/06 11:40:02 INFO  - jmeter.engine.StandardJMeterEngine: Ending thread Artist 1-1 
+2016/04/06 11:40:02 INFO  - jmeter.engine.StandardJMeterEngine: Notifying test listeners of end of test 
+2016/04/06 11:40:02 INFO  - jmeter.engine.StandardJMeterEngine: Test has ended on host null 
