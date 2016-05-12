@@ -93,13 +93,12 @@
                 <stringProp name="-1258380825">&quot;name&quot;:&quot;Top 40 &amp; Pop&quot;</stringProp>
                 <stringProp name="-1011160118">&quot;sortIndex&quot;:</stringProp>
                 <stringProp name="-1989650042">&quot;primary&quot;:true</stringProp>
-                <stringProp name="-183049118">&quot;shoutcast_stream&quot;:&quot;http://whtz-fm.akacast.akamaistream.net/7/579/19972/v1/auth.akacast.akamaistream.net/whtz-fm&quot;</stringProp>
                 <stringProp name="-357989094">&quot;optimized-audio-fill-zone&quot;:&quot;40436&quot;</stringProp>
                 <stringProp name="820374989">&quot;audio-zone&quot;:&quot;40435&quot;</stringProp>
                 <stringProp name="-759255433">&quot;display-zone&quot;:&quot;40437&quot;</stringProp>
                 <stringProp name="1720057175">&quot;audio-fill-zone&quot;:&quot;40433&quot;</stringProp>
                 <stringProp name="1318623638">&quot;audio-exchange-zone&quot;:&quot;40434&quot;</stringProp>
-                <stringProp name="0"></stringProp>
+                <stringProp name="888200197">&quot;shoutcast_stream&quot;:&quot;http://whtz-fm.akacast.iheart.com/7/579/19972/v1/auth.akacast.akamaistream.net/whtz-fm&quot;</stringProp>
               </collectionProp>
               <stringProp name="Assertion.test_field">Assertion.response_data</stringProp>
               <boolProp name="Assertion.assume_success">false</boolProp>
@@ -147,7 +146,6 @@
                 <stringProp name="-1096637010">&quot;origin&quot;:true</stringProp>
                 <stringProp name="-1989650042">&quot;primary&quot;:true</stringProp>
                 <stringProp name="-1327979659">&quot;secure_rtmp_stream&quot;:&quot;rtmp://cp19974.live.edgefcs.net/live/Nyo_NY_WLTW-FM_OR@152587&quot;</stringProp>
-                <stringProp name="-1733577703">&quot;shoutcast_stream&quot;:&quot;http://wltw-fm.akacast.akamaistream.net/7/291/19974/v1/auth.akacast.akamaistream.net/wltw-fm&quot;</stringProp>
                 <stringProp name="-2096463608">&quot;adswizz&quot;:{&quot;publisher_id&quot;:&quot;852</stringProp>
                 <stringProp name="-282241912">&quot;social&quot;:{&quot;twitter&quot;:&quot;1067LiteFM&quot;</stringProp>
                 <stringProp name="10835149">&quot;format&quot;:&quot;ACMAINSTREAM&quot;,&quot;provider&quot;:&quot;Clear Channel&quot;,&quot;rds&quot;:&quot;WLTW-FM New York&quot;,&quot;website&quot;:&quot;www.1067litefm.com&quot;</stringProp>
@@ -166,6 +164,7 @@
                 <stringProp name="1298401315">&quot;audio-exchange-zone&quot;:&quot;39794&quot;</stringProp>
                 <stringProp name="-779477756">&quot;display-zone&quot;:&quot;39797&quot;</stringProp>
                 <stringProp name="-1277802936">&quot;hls_stream&quot;:&quot;http://c11.prod.playlists.ihrhls.com/1477/playlist.m3u8&quot;</stringProp>
+                <stringProp name="159355004">&quot;shoutcast_stream&quot;:&quot;http://wltw-fm.akacast.iheart.com/7/291/19974/v1/auth.akacast.akamaistream.net/wltw-fm&quot;</stringProp>
               </collectionProp>
               <stringProp name="Assertion.test_field">Assertion.response_data</stringProp>
               <boolProp name="Assertion.assume_success">false</boolProp>
