@@ -261,9 +261,7 @@
                 <stringProp name="974711917">&quot;markets&quot;:</stringProp>
                 <stringProp name="-1137787831">&quot;genres&quot;:[{&quot;id&quot;:4</stringProp>
                 <stringProp name="-1071024724">&quot;feeds&quot;:{&quot;site_id&quot;:&quot;0&quot;},&quot;format&quot;:&quot;Prov_Clear Channel New Zealand&quot;,&quot;provider&quot;:&quot;Clear Channel New Zealand&quot;,&quot;website&quot;:&quot;www.radionz.co.nz&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;RNZConcert&quot;,&quot;facebook&quot;:&quot;RadioNewZealandConcert&quot;}}]}</stringProp>
-                <stringProp name="-2013881738">&quot;shoutcast_stream&quot;:&quot;http://radionz-ice.streamguys.com/concert&quot;</stringProp>
                 <stringProp name="-886052022">&quot;hls_stream&quot;:</stringProp>
-                <stringProp name="-994916562">&quot;rtmp_stream&quot;:&quot;rtmp://radionz-wowza.streamguys.com/concert/concert.stream&quot;</stringProp>
                 <stringProp name="-468329241">&quot;name&quot;:&quot;DIGITALNZ-NAT&quot;</stringProp>
                 <stringProp name="-252832770">&quot;marketId&quot;:&quot;577&quot;</stringProp>
                 <stringProp name="-1011160118">&quot;sortIndex&quot;:</stringProp>
@@ -280,6 +278,8 @@
                 <stringProp name="-986977819">&quot;logo&quot;:</stringProp>
                 <stringProp name="-460993359">&quot;freq&quot;:&quot;92.6&quot;</stringProp>
                 <stringProp name="25950238">&quot;countries&quot;:&quot;NZ&quot;</stringProp>
+                <stringProp name="-1873682901">&quot;shoutcast_stream&quot;:&quot;http://rnzi.ihrcast.arn.com.au/concert&quot;</stringProp>
+                <stringProp name="-1006591229">&quot;rtmp_stream&quot;:&quot;rtmp://rnz.ihrcast.arn.com.au/concert/concert.stream&quot;</stringProp>
               </collectionProp>
               <stringProp name="Assertion.test_field">Assertion.response_data</stringProp>
               <boolProp name="Assertion.assume_success">false</boolProp>
@@ -327,7 +327,6 @@
                 <stringProp name="-1989650042">&quot;primary&quot;:true</stringProp>
                 <stringProp name="350547203">&quot;origin&quot;:false</stringProp>
                 <stringProp name="-1778129205">&quot;secure_rtmp_stream&quot;:&quot;rtmp://cp141759.live.edgefcs.net/live/SaMo_CA_KCRW-FM_OR@s51255&quot;</stringProp>
-                <stringProp name="133173879">&quot;shoutcast_stream&quot;:&quot;http://kcrw-fm.akacast.akamaistream.net/7/223/141759/v1/auth.akacast.akamaistream.net/kcrw-fm&quot;</stringProp>
                 <stringProp name="1382206451">&quot;social&quot;</stringProp>
                 <stringProp name="1908912235">&quot;website&quot;:&quot;www.kcrw.com/&quot;</stringProp>
                 <stringProp name="1066449143">&quot;rds&quot;:&quot;KCRW-FM Los Angeles&quot;</stringProp>
@@ -341,6 +340,7 @@
                 <stringProp name="-460993514">&quot;freq&quot;:&quot;92.1&quot;</stringProp>
                 <stringProp name="25956748">&quot;countries&quot;:&quot;US&quot;</stringProp>
                 <stringProp name="-1238929916">&quot;cume&quot;:</stringProp>
+                <stringProp name="1625318068">&quot;shoutcast_stream&quot;:&quot;http://kcrw-fm.akacast.iheart.com/7/223/141759/v1/auth.akacast.akamaistream.net/kcrw-fm&quot;</stringProp>
               </collectionProp>
               <stringProp name="Assertion.test_field">Assertion.response_data</stringProp>
               <boolProp name="Assertion.assume_success">false</boolProp>
@@ -1309,7 +1309,6 @@
           <hashTree>
             <ResponseAssertion guiclass="AssertionGui" testclass="ResponseAssertion" testname="Response Assertion" enabled="true">
               <collectionProp name="Asserion.test_strings">
-                <stringProp name="2034210397">&quot;id&quot;:6708,&quot;score&quot;:0.0,&quot;name&quot;:&quot;96FM Perth&quot;,&quot;responseType&quot;:&quot;LIVE&quot;,&quot;description&quot;:&quot;We&apos;re for real music lovers&quot;,&quot;band&quot;:&quot;FM&quot;,&quot;callLetters&quot;:&quot;96FM-FM&quot;</stringProp>
                 <stringProp name="1592867497">&quot;streams&quot;:</stringProp>
                 <stringProp name="1492799339">&quot;isActive&quot;:true,&quot;modified&quot;</stringProp>
                 <stringProp name="974711917">&quot;markets&quot;:</stringProp>
@@ -1341,6 +1340,13 @@
                 <stringProp name="-986977819">&quot;logo&quot;:</stringProp>
                 <stringProp name="-460874350">&quot;freq&quot;:&quot;96.1&quot;</stringProp>
                 <stringProp name="25937590">&quot;countries&quot;:&quot;AU&quot;</stringProp>
+                <stringProp name="867222494">&quot;id&quot;:6708</stringProp>
+                <stringProp name="558956778">&quot;score&quot;:0.0</stringProp>
+                <stringProp name="-2013244688">&quot;name&quot;:&quot;96FM Perth&quot;</stringProp>
+                <stringProp name="-717620375">&quot;responseType&quot;:&quot;LIVE&quot;</stringProp>
+                <stringProp name="-598608467">&quot;description&quot;:&quot;We&apos;re for real music lovers&quot;</stringProp>
+                <stringProp name="39986504">&quot;band&quot;:&quot;FM&quot;</stringProp>
+                <stringProp name="-646868463">&quot;callLetters&quot;:&quot;96PER-FM&quot;</stringProp>
               </collectionProp>
               <stringProp name="Assertion.test_field">Assertion.response_data</stringProp>
               <boolProp name="Assertion.assume_success">false</boolProp>
