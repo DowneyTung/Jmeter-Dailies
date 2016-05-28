@@ -326,7 +326,7 @@
                 <stringProp name="74941194">&quot;countryId&quot;:1</stringProp>
                 <stringProp name="-1989650042">&quot;primary&quot;:true</stringProp>
                 <stringProp name="350547203">&quot;origin&quot;:false</stringProp>
-                <stringProp name="-1778129205">&quot;secure_rtmp_stream&quot;:&quot;rtmp://cp141759.live.edgefcs.net/live/SaMo_CA_KCRW-FM_OR@s51255&quot;</stringProp>
+                <stringProp name="-526712884">&quot;secure_rtmp_stream&quot;:</stringProp>
                 <stringProp name="1382206451">&quot;social&quot;</stringProp>
                 <stringProp name="1908912235">&quot;website&quot;:&quot;www.kcrw.com/&quot;</stringProp>
                 <stringProp name="1066449143">&quot;rds&quot;:&quot;KCRW-FM Los Angeles&quot;</stringProp>
@@ -340,7 +340,7 @@
                 <stringProp name="-460993514">&quot;freq&quot;:&quot;92.1&quot;</stringProp>
                 <stringProp name="25956748">&quot;countries&quot;:&quot;US&quot;</stringProp>
                 <stringProp name="-1238929916">&quot;cume&quot;:</stringProp>
-                <stringProp name="1625318068">&quot;shoutcast_stream&quot;:&quot;http://kcrw-fm.akacast.iheart.com/7/223/141759/v1/auth.akacast.akamaistream.net/kcrw-fm&quot;</stringProp>
+                <stringProp name="-1521623640">&quot;shoutcast_stream&quot;:&quot;http://kcrw.streamguys1.com/kcrw_128k_aac_on_air_iheart&quot;</stringProp>
               </collectionProp>
               <stringProp name="Assertion.test_field">Assertion.response_data</stringProp>
               <boolProp name="Assertion.assume_success">false</boolProp>
@@ -1609,7 +1609,6 @@
           <hashTree>
             <ResponseAssertion guiclass="AssertionGui" testclass="ResponseAssertion" testname="Response Assertion" enabled="true">
               <collectionProp name="Asserion.test_strings">
-                <stringProp name="-2058859279">&quot;id&quot;:6508,&quot;score&quot;:0.0,&quot;name&quot;:&quot;Universal 92.1 FM&quot;,&quot;responseType&quot;:&quot;LIVE&quot;,&quot;description&quot;:&quot;La Estación de Los Clásicos, México DF&quot;,&quot;band&quot;:&quot;FM&quot;,&quot;callLetters&quot;:&quot;XEFO-FM&quot;</stringProp>
                 <stringProp name="1592867497">&quot;streams&quot;:</stringProp>
                 <stringProp name="1492799339">&quot;isActive&quot;:true,&quot;modified&quot;</stringProp>
                 <stringProp name="1161676893">&quot;markets&quot;:[{&quot;name&quot;:&quot;MEXICOCITY-DF&quot;</stringProp>
@@ -1624,14 +1623,21 @@
                 <stringProp name="74941197">&quot;countryId&quot;:4</stringProp>
                 <stringProp name="-1989650042">&quot;primary&quot;:true</stringProp>
                 <stringProp name="-1096637010">&quot;origin&quot;:true</stringProp>
-                <stringProp name="585272050">&quot;shoutcast_stream&quot;:&quot;http://ice21.securenetsystems.net/UNIVAAC&quot;</stringProp>
-                <stringProp name="-1346298332">&quot;flv_stream&quot;:&quot;http://ice21.securenetsystems.net/UNIVAAC?type=.flv&quot;</stringProp>
+                <stringProp name="-1717655309">&quot;shoutcast_stream&quot;:&quot;http://ice21.securenetsystems.net:80/REDFAAC&quot;</stringProp>
+                <stringProp name="1593296181">&quot;flv_stream&quot;:&quot;http://ice21.securenetsystems.net:80/REDFAAC?type=.flv&quot;</stringProp>
                 <stringProp name="2129693924">&quot;feeds&quot;:{&quot;site_id&quot;:&quot;0&quot;},&quot;format&quot;:&quot;Prov_Grupo Radio Centro&quot;,&quot;provider&quot;:&quot;Grupo Radio Centro&quot;,&quot;rds&quot;:&quot;XEFO-FM&quot;,&quot;website&quot;:&quot;http://universal921.mx&quot;,&quot;social&quot;:{}}]}</stringProp>
                 <stringProp name="204194507">&quot;name&quot;:&quot;Spanish&quot;</stringProp>
                 <stringProp name="-986977819">&quot;logo&quot;:</stringProp>
                 <stringProp name="-460993514">&quot;freq&quot;:&quot;92.1&quot;</stringProp>
                 <stringProp name="25949215">&quot;countries&quot;:&quot;MX&quot;</stringProp>
                 <stringProp name="204194507">&quot;name&quot;:&quot;Spanish&quot;</stringProp>
+                <stringProp name="867220572">&quot;id&quot;:6508</stringProp>
+                <stringProp name="558956778">&quot;score&quot;:0.0</stringProp>
+                <stringProp name="269704996">&quot;name&quot;:&quot;Red FM 92.1 FM&quot;</stringProp>
+                <stringProp name="-717620375">&quot;responseType&quot;:&quot;LIVE&quot;</stringProp>
+                <stringProp name="-1125841667">&quot;description&quot;:&quot;Frecuencia Desde La Ciudad De México&quot;</stringProp>
+                <stringProp name="39986504">&quot;band&quot;:&quot;FM&quot;</stringProp>
+                <stringProp name="1230691745">&quot;callLetters&quot;:&quot;XEFO-FM&quot;</stringProp>
               </collectionProp>
               <stringProp name="Assertion.test_field">Assertion.response_data</stringProp>
               <boolProp name="Assertion.assume_success">false</boolProp>
