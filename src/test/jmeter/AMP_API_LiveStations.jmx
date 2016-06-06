@@ -1452,7 +1452,7 @@
                 <stringProp name="-1096637010">&quot;origin&quot;:true</stringProp>
                 <stringProp name="-1989650042">&quot;primary&quot;:true</stringProp>
                 <stringProp name="-1373924486">&quot;secure_rtmp_stream&quot;:&quot;rtmp://cp293157.live.edgefcs.net/live/Aub_AL_WKKR-FM_OR@1022&quot;</stringProp>
-                <stringProp name="688004684">&quot;shoutcast_stream&quot;:&quot;http://wkkr-fm.akacast.akamaistream.net/7/55/293157/v1/auth.akacast.akamaistream.net/wkkr-fm&quot;</stringProp>
+                <stringProp name="-967491519">&quot;shoutcast_stream&quot;:</stringProp>
                 <stringProp name="-1155445832">&quot;esid&quot;:&quot;4818&quot;</stringProp>
                 <stringProp name="-986977819">&quot;logo&quot;:</stringProp>
                 <stringProp name="-460844373">&quot;freq&quot;:&quot;97.7&quot;</stringProp>
